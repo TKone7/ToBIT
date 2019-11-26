@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/Arch Linux)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: TobitEnglishCorrectionSoftware_TobiasKoller.aux
+The style file: apalike.bst
+Database file #1: ToBITEnglishCorrectionSoftware.bib
+You've used 19 entries,
+            1935 wiz_defined-function locations,
+            600 strings with 8190 characters,
+and the built_in function-call counts, 7705 in all, are:
+= -- 792
+> -- 263
+< -- 17
++ -- 88
+- -- 84
+* -- 656
+:= -- 1313
+add.period$ -- 62
+call.type$ -- 19
+change.case$ -- 137
+chr.to.int$ -- 19
+cite$ -- 19
+duplicate$ -- 297
+empty$ -- 558
+format.name$ -- 121
+if$ -- 1525
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 18
+newline$ -- 101
+num.names$ -- 57
+pop$ -- 95
+preamble$ -- 1
+purify$ -- 137
+quote$ -- 0
+skip$ -- 232
+stack$ -- 0
+substring$ -- 600
+swap$ -- 42
+text.length$ -- 4
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 114
+warning$ -- 0
+while$ -- 72
+width$ -- 0
+write$ -- 261

@@ -1,0 +1,137 @@
+\documentclass[a4paper,12pt,titlepage]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{blindtext}
+\usepackage{microtype}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+\usepackage{amsmath}
+\usepackage{index}
+\usepackage[onehalfspacing]{setspace}
+\usepackage{nomencl}
+\makenomenclature
+\renewcommand{\nomname}{List of Abbreviations}
+
+%opening
+
+\makeindex
+
+\begin{document}
+
+\title{\Large{\textbf{English Correction Software}}\\ ToBIT Proposal}
+\author{By Tobias Koller}
+
+\maketitle
+\let\cleardoublepage\clearpage
+
+\tableofcontents
+\newpage
+
+
+\pagenumbering{arabic}
+
+
+\section{Summary}
+Numerous software solutions on the market promise to help in particular non-native English speakers to help with grammatical error detection as well as improving the style and structure of their writing. In the course of the module \textbf{ToBIT}, I am going to evaluate different products regarding their functions, ease of use and effectiveness in supporting the writing process of students. The main goal is to use literature review to discover how effective the correction software can works under real conditions.
+
+One widely known and used writing tool for grammar checking, spell checking, and plagiarism is named Grammarly®. Since it is considered to be on of the leading products in this field and there is innumerable research papers to support I focus on this particular tool.
+
+After the evaluation of the tools I will also describe different techniques of  NLP that are being applied. As a final part of the document the findings are being discussed to present the current state of art in this field. A recommendation to FHNW will be given on what products to consider for acquiring.
+
+\nomenclature{ToBIT}{Innovative Topics in Business Information Technology}
+\nomenclature{NLP}{Natural language processing}
+\nomenclature{FHNW}{Fachhochschule Nordwestschweiz}
+
+\section{Outline}\label{sec:outl}
+The following chapter gives a rough overview of the structure of the final document. It comprises the three main parts of looking at existing solutions, the main part of assessing the usefullness and effectiveness of numerous products and the final part of giving more in-depth details about the inner workings of the NLP techniques used.
+\pagebreak
+
+\setlist{nolistsep}
+\textbf{English Correction Software}
+\begin{itemize}
+    \item Existing Solutions
+    \begin{itemize}
+        \item Grammerly
+        \begin{itemize}
+            \item \cite{dembsey_closing_2017}
+            \item \cite{cavaleri_you_2016}
+        \end{itemize}
+
+        \item Criterion
+        \begin{itemize}
+            \item \cite{burstein_toward_2003}
+            \item \cite{li_rethinking_2015}
+            \item \cite{burstein_automated_2004}
+        \end{itemize}
+
+    \end{itemize}
+    \item Evaluation of Tools
+    \begin{itemize}
+        \item Grammerly
+        \begin{itemize}
+            \item \cite{dembsey_closing_2017}
+            \item \cite{cavaleri_you_2016}
+            \item \cite{qassemzadeh_impact_2016}
+            \item \cite{nova_utilizing_2018}
+            \item \cite{ventayen_graduate_2018}
+        \end{itemize}
+
+        \item Application in classrooms
+        \begin{itemize}
+         \item \cite{li_rethinking_2015}
+         \item \cite{warschauer_automated_2006}
+         \item \cite{grimes_utility_2010}
+        \end{itemize}
+
+        \item Audience / context specific
+        \begin{itemize}
+         \item \cite{li_rethinking_2015}
+         \item \cite{patout_towards_2019}
+        \end{itemize}
+        
+        \item Others
+        \begin{itemize}
+            \item \cite{dodigovic_artificial_2007}
+            \item \cite{chen_beyond_2008}
+            \item \cite{wang_exploring_2013}
+            \item \cite{vojak_new_2011}
+            \item \cite{cotos_potential_2011}
+            \item \cite{wang_case_2011}
+        \end{itemize}
+
+    \end{itemize}
+
+    \item Techniques of Natural language processing
+    \begin{itemize}
+     \item Contextual Word Representations
+     \begin{itemize}
+      \item \cite{bell_context_2019}
+     \end{itemize}
+
+     \item Rule Based
+     \begin{itemize}
+      \item \cite{manchanda_various_2016}
+     \end{itemize}
+
+     \item Statistical
+     \begin{itemize}
+      \item \cite{manchanda_various_2016}
+     \end{itemize}
+     \item Syntax
+     \begin{itemize}
+      \item \cite{manchanda_various_2016}
+     \end{itemize}
+    \end{itemize}
+    \item Discussion and recommendation
+\end{itemize}
+
+\section{Bibliography used}
+The mentioned resources from section \ref{sec:outl} are subsequently listed in greater detail. This list of research is not final and will be extended during the process of writing the ToBIT paper.
+\bibliographystyle{apalike}
+\bibliography{ToBIT_Bibliography_Proposal}
+
+\printnomenclature 
+
+\end{document}
