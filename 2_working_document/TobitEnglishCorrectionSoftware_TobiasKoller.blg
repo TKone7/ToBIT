@@ -1,46 +1,19 @@
-This is BibTeX, Version 0.99d (TeX Live 2019/Arch Linux)
-Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
-The top-level auxiliary file: TobitEnglishCorrectionSoftware_TobiasKoller.aux
-The style file: apalike.bst
-Database file #1: ToBITEnglishCorrectionSoftware.bib
-You've used 19 entries,
-            1935 wiz_defined-function locations,
-            600 strings with 8190 characters,
-and the built_in function-call counts, 7705 in all, are:
-= -- 792
-> -- 263
-< -- 17
-+ -- 88
-- -- 84
-* -- 656
-:= -- 1313
-add.period$ -- 62
-call.type$ -- 19
-change.case$ -- 137
-chr.to.int$ -- 19
-cite$ -- 19
-duplicate$ -- 297
-empty$ -- 558
-format.name$ -- 121
-if$ -- 1525
-int.to.chr$ -- 1
-int.to.str$ -- 0
-missing$ -- 18
-newline$ -- 101
-num.names$ -- 57
-pop$ -- 95
-preamble$ -- 1
-purify$ -- 137
-quote$ -- 0
-skip$ -- 232
-stack$ -- 0
-substring$ -- 600
-swap$ -- 42
-text.length$ -- 4
-text.prefix$ -- 0
-top$ -- 0
-type$ -- 114
-warning$ -- 0
-while$ -- 72
-width$ -- 0
-write$ -- 261
+[0] Config.pm:304> INFO - This is Biber 2.13
+[9] Config.pm:307> INFO - Logfile is 'TobitEnglishCorrectionSoftware_TobiasKoller.blg'
+[150] biber:315> INFO - === Mi Nov 27, 2019, 11:21:43
+[187] Biber.pm:375> INFO - Reading 'TobitEnglishCorrectionSoftware_TobiasKoller.bcf'
+[479] Biber.pm:905> INFO - Found 2 citekeys in bib section 0
+[510] Biber.pm:4196> INFO - Processing section 0
+[511] Utils.pm:75> INFO - Globbing data source 'ToBITEnglishCorrectionSoftware.bib'
+[511] Utils.pm:91> INFO - Globbed data source 'ToBITEnglishCorrectionSoftware.bib' to ToBITEnglishCorrectionSoftware.bib
+[525] Biber.pm:4373> INFO - Looking for bibtex format file 'ToBITEnglishCorrectionSoftware.bib' for section 0
+[538] bibtex.pm:1462> INFO - LaTeX decoding ...
+[694] bibtex.pm:1281> INFO - Found BibTeX data source 'ToBITEnglishCorrectionSoftware.bib'
+[706] Utils.pm:300> WARN - I didn't find a database entry for 'grammarly_website' (section 0)
+[735] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[735] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[736] Biber.pm:4024> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[736] Biber.pm:4030> INFO - No sort tailoring available for locale 'en-US'
+[755] bbl.pm:648> INFO - Writing 'TobitEnglishCorrectionSoftware_TobiasKoller.bbl' with encoding 'UTF-8'
+[760] bbl.pm:751> INFO - Output to TobitEnglishCorrectionSoftware_TobiasKoller.bbl
+[762] Biber.pm:110> INFO - WARNINGS: 1

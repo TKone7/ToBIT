@@ -1,127 +1,70 @@
-\begin{thebibliography}{}
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
 
-\bibitem[Bell et~al., 2019]{bell_context_2019}
-Bell, S., Yannakoudakis, H., and Rei, M. (2019).
-\newblock Context is {Key}: {Grammatical} {Error} {Detection} with {Contextual}
-  {Word} {Representations}.
-\newblock {\em arXiv:1906.06593 [cs]}.
-\newblock arXiv: 1906.06593.
 
-\bibitem[Burstein et~al., 2004]{burstein_automated_2004}
-Burstein, J., Chodorow, M., and Leacock, C. (2004).
-\newblock Automated {Essay} {Evaluation}: {The} {Criterion} {Online} {Writing}
-  {Service}.
-\newblock {\em AI Magazine}, 25(3):27--27.
+\refsection{0}
+  \datalist[entry]{apa/global//global/global}
+    \entry{dembsey_closing_2017}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=831bf62cd223446a32c21a05ce2a5634}{%
+           family={Dembsey},
+           familyi={D\bibinitperiod},
+           given={J.\bibnamedelimi M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{831bf62cd223446a32c21a05ce2a5634}
+      \strng{fullhash}{831bf62cd223446a32c21a05ce2a5634}
+      \strng{bibnamehash}{831bf62cd223446a32c21a05ce2a5634}
+      \strng{authorbibnamehash}{831bf62cd223446a32c21a05ce2a5634}
+      \strng{authornamehash}{831bf62cd223446a32c21a05ce2a5634}
+      \strng{authorfullhash}{831bf62cd223446a32c21a05ce2a5634}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{From 2012 to 2015, the online grammar program Grammarly® was claimed to complement writing center services by 1. increasing student access to writing support; and 2. addressing sentence-level issues, such as grammar. To test if Grammarly® could close these two gaps in writing center services, this article revisits the results of a Spring 2014 study that compared Grammarly®'s comment cards to the written feedback of 10 asynchronous online consultants. The results showed that both Grammarly® and some consultants strayed from effective practices regarding limiting feedback, avoiding technical language, and providing accurate information about grammatical structure. However, the consultants' weaknesses could be addressed with enhanced or focused training, and their strengths allowed for important learning opportunities that enable student access to information across mediums and help students establish connections between their sentences and the larger whole. This article concludes that each writing center should consider their own way of closing these gaps and offers suggestions for multiple consultation genres, new services, and strategies for sentence-level concerns.}
+      \field{annotation}{Tests if the gaps could be closed. Compares result with feedback of 10 real consultants.}
+      \field{issn}{0889-6143}
+      \field{journaltitle}{The Writing Center Journal}
+      \field{number}{1}
+      \field{shorttitle}{Closing the {Grammarly}® {Gaps}}
+      \field{title}{Closing the {Grammarly}® {Gaps}: {A} {Study} of {Claims} and {Feedback} from an {Online} {Grammar} {Program}}
+      \field{urlday}{14}
+      \field{urlmonth}{10}
+      \field{urlyear}{2019}
+      \field{volume}{36}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{63\bibrangedash 100}
+      \range{pages}{38}
+      \verb{urlraw}
+      \verb https://www.jstor.org/stable/44252638
+      \endverb
+      \verb{url}
+      \verb https://www.jstor.org/stable/44252638
+      \endverb
+    \endentry
+  \enddatalist
+  \missing{grammarly_website}
+\endrefsection
+\endinput
 
-\bibitem[Burstein and Wolska, 2003]{burstein_toward_2003}
-Burstein, J. and Wolska, M. (2003).
-\newblock Toward {Evaluation} of {Writing} {Style}: {Finding} {Overly}
-  {Repetitive} {Word} {Use} in {Student} {Essays}.
-\newblock In {\em Proceedings of the {Tenth} {Conference} on {European}
-  {Chapter} of the {Association} for {Computational} {Linguistics} - {Volume}
-  1}, {EACL} '03, pages 35--42, Stroudsburg, PA, USA. Association for
-  Computational Linguistics.
-\newblock event-place: Budapest, Hungary.
-
-\bibitem[Cavaleri and Dianati, 2016]{cavaleri_you_2016}
-Cavaleri, M.~R. and Dianati, S. (2016).
-\newblock You want me to check your grammar again? {The} usefulness of an
-  online grammar checker as perceived by students.
-\newblock {\em Journal of Academic Language and Learning}, 10(1):A223--A236.
-
-\bibitem[Chen and Cheng, 2008]{chen_beyond_2008}
-Chen, C.-F.~E. and Cheng, W.-Y. E.~C. (2008).
-\newblock Beyond the design of automated writing evaluation: {Pedagogical}
-  practices and perceived learning effectiveness in {EFL} writing classes.
-\newblock {\em Language Learning \& Technology}, 12(2):94--112.
-
-\bibitem[Cotos, 2011]{cotos_potential_2011}
-Cotos, E. (2011).
-\newblock Potential of {Automated} {Writing} {Evaluation} {Feedback}.
-\newblock {\em CALICO Journal}, 28(2):420--459.
-
-\bibitem[Dembsey, 2017]{dembsey_closing_2017}
-Dembsey, J.~M. (2017).
-\newblock Closing the {Grammarly}® {Gaps}: {A} {Study} of {Claims} and
-  {Feedback} from an {Online} {Grammar} {Program}.
-\newblock {\em The Writing Center Journal}, 36(1):63--100.
-
-\bibitem[Dodigovic, 2007]{dodigovic_artificial_2007}
-Dodigovic, M. (2007).
-\newblock Artificial {Intelligence} and {Second} {Language} {Learning}: {An}
-  {Efficient} {Approach} to {Error} {Remediation}.
-\newblock {\em Language Awareness}, 16(2):99--113.
-
-\bibitem[Grimes and Warschauer, 2010]{grimes_utility_2010}
-Grimes, D. and Warschauer, M. (2010).
-\newblock Utility in a {Fallible} {Tool}: {A} {Multi}-{Site} {Case} {Study} of
-  {Automated} {Writing} {Evaluation}.
-\newblock {\em The Journal of Technology, Learning and Assessment}, 8(6).
-
-\bibitem[Li et~al., 2015]{li_rethinking_2015}
-Li, J., Link, S., and Hegelheimer, V. (2015).
-\newblock Rethinking the role of automated writing evaluation ({AWE}) feedback
-  in {ESL} writing instruction.
-\newblock {\em Journal of Second Language Writing}, 27:1--18.
-
-\bibitem[Manchanda et~al., 2016]{manchanda_various_2016}
-Manchanda, B., Athavale, V.~A., and kumar Sharma, S. (2016).
-\newblock Various techniques used for grammar checking.
-\newblock {\em International Journal of Computer Applications \& Information
-  Technology}, 9(1):177.
-
-\bibitem[Nova, 2018]{nova_utilizing_2018}
-Nova, M. (2018).
-\newblock {UTILIZING} {GRAMMARLY} {IN} {EVALUATING} {ACADEMIC} {WRITING}: {A}
-  {NARRATIVE} {RESEARCH} {ON} {EFL} {STUDENTS}’ {EXPERIENCE}.
-\newblock {\em Premise: Journal of English Education}, 7(1):80--97.
-
-\bibitem[Patout and Cordy, 2019]{patout_towards_2019}
-Patout, P.-A. and Cordy, M. (2019).
-\newblock Towards {Context}-aware {Automated} {Writing} {Evaluation} {Systems}.
-\newblock In {\em Proceedings of the 1st {ACM} {SIGSOFT} {International}
-  {Workshop} on {Education} {Through} {Advanced} {Software} {Engineering} and
-  {Artificial} {Intelligence}}, {EASEAI} 2019, pages 17--20, New York, NY, USA.
-  ACM.
-\newblock event-place: Tallinn, Estonia.
-
-\bibitem[Qassemzadeh and Soleimani, 2016]{qassemzadeh_impact_2016}
-Qassemzadeh, A. and Soleimani, H. (2016).
-\newblock The {Impact} of {Feedback} {Provision} by {Grammarly} {Software} and
-  {Teachers} on {Learning} {Passive} {Structures} by {Iranian} {EFL}
-  {Learners}.
-\newblock {\em Theory and Practice in Language Studies}, 6(9):1884--1894.
-
-\bibitem[Ventayen and Orlanda-Ventayen, 2018]{ventayen_graduate_2018}
-Ventayen, R. J.~M. and Orlanda-Ventayen, C.~C. (2018).
-\newblock Graduate {Students}’ {Perspective} on the {Usability} of
-  {Grammarly}® in {One} {ASEAN} {State} {University}.
-\newblock {SSRN} {Scholarly} {Paper} ID 3310702, Social Science Research
-  Network, Rochester, NY.
-
-\bibitem[Vojak et~al., 2011]{vojak_new_2011}
-Vojak, C., Kline, S., Cope, B., McCarthey, S., and Kalantzis, M. (2011).
-\newblock New {Spaces} and {Old} {Places}: {An} {Analysis} of {Writing}
-  {Assessment} {Software}.
-\newblock {\em Computers and Composition}, 28(2):97--111.
-
-\bibitem[Wang and Xian, 2011]{wang_case_2011}
-Wang, S. and Xian, Y. (2011).
-\newblock A {Case} {Study} on the {Efficacy} of {Error} {Correction} {Practice}
-  by {Using} the {Automated} {Writing} {Evaluation} {System} {WRM} 2.0 on
-  {Chinese} {College} {Students}' {English} {Writing}.
-\newblock In {\em 2011 {International} {Conference} on {Computational} and
-  {Information} {Sciences}}, pages 988--991.
-
-\bibitem[Wang et~al., 2013]{wang_exploring_2013}
-Wang, Y.-J., Shang, H.-F., and Briody, P. (2013).
-\newblock Exploring the impact of using automated writing evaluation in
-  {English} as a foreign language university students' writing.
-\newblock {\em Computer Assisted Language Learning}, 26(3):234--257.
-
-\bibitem[Warschauer and Ware, 2006]{warschauer_automated_2006}
-Warschauer, M. and Ware, P. (2006).
-\newblock Automated writing evaluation: defining the classroom research agenda.
-\newblock {\em Language Teaching Research}, 10(2):157--180.
-
-\end{thebibliography}
