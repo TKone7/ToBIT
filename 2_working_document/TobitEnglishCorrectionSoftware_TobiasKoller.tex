@@ -7,13 +7,13 @@
 \bibliography{ToBITEnglishCorrectionSoftware.bib}
 
 \usepackage{csquotes}
+\usepackage{enumitem}
 %\usepackage[utf8]{inputenc}
 %\usepackage[english]{babel}
 %\usepackage{blindtext}
 %\usepackage{microtype}
 %\usepackage{graphicx}
 %\usepackage{wrapfig}
-%\usepackage{enumitem}
 %\usepackage{fancyhdr}
 %\usepackage{amsmath}
 %\usepackage{index}
@@ -68,8 +68,69 @@ The following chapter
 
 \section{Existing solutions}
 \subsection{Grammarly}
-Grammarly, a company with its eponymous popular language correction software, aims to improve the communication of people. Max Lytvyn, Alex Shevchenko, and Dmytro Lider founded the company 2009 with a strong focus on supporting the student's writing process. In the meantime, they broadened their scope to businesses as well as personal writers. With Grammarly @edu and Grammarly business, they have their dedicated divisions for those clients. Their correction service is based on analysing the written content in real-time while showing suggestions in the form of correction cards.  With a simple click, the changes can be applied or rejected. To promote learning of the writer further grammatical information regarding the specific issue can be retrieved from the card which can help to decide on whether to accept the changes or not. \citep{grammarly_website}
+Grammarly, a company with its eponymous popular language correction software, aims to improve the communication of people. Max Lytvyn, Alex Shevchenko, and Dmytro Lider founded the company 2009 with a strong focus on supporting the student's writing process. In the meantime, they broadened their scope to businesses as well as personal writers. With Grammarly @edu and Grammarly business, they have their dedicated divisions for those clients. Their correction service is based on analysing the written content in real-time while showing suggestions in the form of correction cards.  With a simple click, the changes can be applied or rejected. To promote learning of the writer further grammatical information regarding the specific issue can be retrieved from the card which can help to decide on whether to accept the changes or not. \citep{noauthor_grammarly._nodate}
 
+Being a successful grammar checker requires to be available where people create texts. With such a diverse client group, those places are multi-faceted. While academic and business end-users might use classical text processing software, most personal use cases are not so easy to unify. Web forums, chat messages, e-mails or social-media platforms are some of the areas users compose content. Grammarly responds to this with various products. Browser plugins for all major browsers (Chrome, Safari, Firefox, Edge) provide accompanying grammar service during your browsing experience. Input text fields are automatically detected and errors are highlighted with the option to see the correction card. Users of Windows and Mac can download a Grammarly text editor, but similar functionality can also be used in their web application on app.grammarly.com. To also serve customers who write on mobile devices, the Grammarly team developed a keyboard for Android and iOS. For both Microsoft Word and Outlook, Grammarly provides a special plugin that integrates directly and seamlessly with the writing process.
+
+Which type of help can writers expect from the software? According to their webpage \parencite{noauthor_grammarly._nodate} support ranges from grammar checking, tone detector and for paying users even a plagiarism checker. They claim that their grammar checker does not only find misspelt words but also recognises comma and other punctuation misuses. Furthermore, their premium service includes more advanced suggestions to enhance the writing style. To help writing an appropriate language one can define so-called goals on which the algorithm bases its recommendations on. Parameters that can be predefined include target-audience, formality, domain and tone of writing.   
+
+\section{Evaluation of effectiveness}
+
+\subsection{Grammarly}
+
+\subsubsection{Quality of feedback}
+\begin{itemize}
+    \item Type of issues
+    \item quality of feedback (technical language) \citep{dembsey_closing_2017} page 79
+    \item misleading feedback, confusion, change of intention \citep{nova_utilizing_2018} page 8
+    \item inability to detect context and relation between sentences \citep{nova_utilizing_2018} page 12
+    \item feedback was hard to understand \citep{cavaleri_you_2016} page 12
+\end{itemize}
+
+\subsubsection{Amount of errors found}
+\begin{itemize}
+    \item Number of comments \citep{dembsey_closing_2017} page 70
+\end{itemize}
+
+\subsubsection{Accuracy}
+\citep{dembsey_closing_2017} page 83
+
+\subsubsection{Perceived Ease of use}
+\begin{itemize}
+    \item ease of access as well \citep{nova_utilizing_2018} page 7
+    \item low barriers, fast and quick setup
+    \item extremely easy to use \citep{cavaleri_you_2016} page 12
+    \item terminology used might be a barrier for some, requires a lot of conceptual thinking \citep{cavaleri_you_2016} page 12
+    \item SUS System Usability of Scale \citep{ventayen_graduate_2018}
+\end{itemize}
+
+\subsubsection{Perceived Usefulness} 
+Usefulnes Feedback \citep{nova_utilizing_2018} page 6 
+\begin{itemize}
+    \item helped learning from mistakes
+    \item examples helped to understand the issue better
+    \item rises awareness of errors
+    \item more advanced writer benefit most \citep{cavaleri_you_2016} page 12
+\end{itemize}
+
+\subsection{Application in classrooms}
+
+
+\section{Techniques of natural language processing}
+
+\section{Discussion and recommendation}
+
+
+
+
+
+
+
+
+
+
+
+\section{Self experiment}
 
 Just cite \cite{dembsey_closing_2017}
 \newline
@@ -85,7 +146,8 @@ The following chapter
 text quote 
 \textquote[{\cite{dembsey_closing_2017}}]{word for word }
 \newline
-\newpage
+
+
 \section{Bibliography used}
 The list of references is not final and will be extended during the process of writing the ToBIT paper.
 \printbibliography
