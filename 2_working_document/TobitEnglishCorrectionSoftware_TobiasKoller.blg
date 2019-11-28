@@ -1,17 +1,17 @@
-[1] Config.pm:304> INFO - This is Biber 2.13
-[2] Config.pm:307> INFO - Logfile is 'TobitEnglishCorrectionSoftware_TobiasKoller.blg'
-[144] biber:315> INFO - === Mi Nov 27, 2019, 15:29:49
-[244] Biber.pm:375> INFO - Reading 'TobitEnglishCorrectionSoftware_TobiasKoller.bcf'
-[781] Biber.pm:905> INFO - Found 2 citekeys in bib section 0
-[881] Biber.pm:4196> INFO - Processing section 0
-[883] Utils.pm:75> INFO - Globbing data source 'ToBITEnglishCorrectionSoftware.bib'
-[884] Utils.pm:91> INFO - Globbed data source 'ToBITEnglishCorrectionSoftware.bib' to ToBITEnglishCorrectionSoftware.bib
-[965] Biber.pm:4373> INFO - Looking for bibtex format file 'ToBITEnglishCorrectionSoftware.bib' for section 0
-[992] bibtex.pm:1462> INFO - LaTeX decoding ...
-[1644] bibtex.pm:1281> INFO - Found BibTeX data source 'ToBITEnglishCorrectionSoftware.bib'
-[1788] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1789] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1790] Biber.pm:4024> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
-[1790] Biber.pm:4030> INFO - No sort tailoring available for locale 'en-US'
-[1841] bbl.pm:648> INFO - Writing 'TobitEnglishCorrectionSoftware_TobiasKoller.bbl' with encoding 'UTF-8'
-[1849] bbl.pm:751> INFO - Output to TobitEnglishCorrectionSoftware_TobiasKoller.bbl
+[0] Config.pm:304> INFO - This is Biber 2.13
+[0] Config.pm:307> INFO - Logfile is 'TobitEnglishCorrectionSoftware_TobiasKoller.blg'
+[25] biber:315> INFO - === Do Nov 28, 2019, 20:10:14
+[42] Biber.pm:375> INFO - Reading 'TobitEnglishCorrectionSoftware_TobiasKoller.bcf'
+[367] Biber.pm:905> INFO - Found 8 citekeys in bib section 0
+[425] Biber.pm:4196> INFO - Processing section 0
+[428] Utils.pm:75> INFO - Globbing data source 'ToBITEnglishCorrectionSoftware.bib'
+[429] Utils.pm:91> INFO - Globbed data source 'ToBITEnglishCorrectionSoftware.bib' to ToBITEnglishCorrectionSoftware.bib
+[473] Biber.pm:4373> INFO - Looking for bibtex format file 'ToBITEnglishCorrectionSoftware.bib' for section 0
+[486] bibtex.pm:1462> INFO - LaTeX decoding ...
+[969] bibtex.pm:1281> INFO - Found BibTeX data source 'ToBITEnglishCorrectionSoftware.bib'
+[1159] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1160] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1161] Biber.pm:4024> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[1161] Biber.pm:4030> INFO - No sort tailoring available for locale 'en-US'
+[1208] bbl.pm:648> INFO - Writing 'TobitEnglishCorrectionSoftware_TobiasKoller.bbl' with encoding 'UTF-8'
+[1234] bbl.pm:751> INFO - Output to TobitEnglishCorrectionSoftware_TobiasKoller.bbl

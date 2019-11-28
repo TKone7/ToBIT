@@ -19,6 +19,47 @@
 
 \refsection{0}
   \datalist[entry]{apa/global//global/global}
+    \entry{cavaleri_you_2016}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=be80c293233797973d11d9e8ce54ba6f}{%
+           family={Cavaleri},
+           familyi={C\bibinitperiod},
+           given={Michelle\bibnamedelima Rose},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fa740159bdcb09e24d6795a7f21c453c}{%
+           family={Dianati},
+           familyi={D\bibinitperiod},
+           given={Saib},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8d0d21ddb3d025f8abac911633b1112c}
+      \strng{fullhash}{8d0d21ddb3d025f8abac911633b1112c}
+      \strng{bibnamehash}{8d0d21ddb3d025f8abac911633b1112c}
+      \strng{authorbibnamehash}{8d0d21ddb3d025f8abac911633b1112c}
+      \strng{authornamehash}{8d0d21ddb3d025f8abac911633b1112c}
+      \strng{authorfullhash}{8d0d21ddb3d025f8abac911633b1112c}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{annotation}{overview of Grammarly trial at two colleges doing survey according to usefulness also reviews the acceptance by students}
+      \field{journaltitle}{Journal of Academic Language and Learning}
+      \field{number}{1}
+      \field{shorttitle}{You want me to check your grammar again?}
+      \field{title}{You want me to check your grammar again? {The} usefulness of an online grammar checker as perceived by students}
+      \field{volume}{10}
+      \field{year}{2016}
+      \field{pages}{A223\bibrangedash A236}
+      \range{pages}{-1}
+      \verb{file}
+      \verb Cavaleri and Dianati - 2016 - You want me to check your grammar again The usefu.pdf:/home/tobias/Zotero/storage/DK2JJ7IG/Cavaleri and Dianati - 2016 - You want me to check your grammar again The usefu.pdf:application/pdf
+      \endverb
+    \endentry
     \entry{dembsey_closing_2017}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=831bf62cd223446a32c21a05ce2a5634}{%
@@ -56,6 +97,9 @@
       \field{urldateera}{ce}
       \field{pages}{63\bibrangedash 100}
       \range{pages}{38}
+      \verb{file}
+      \verb Dembsey - 2017 - Closing the Grammarly® Gaps A Study of Claims and.pdf:/home/tobias/Zotero/storage/K8CBJF4P/Dembsey - 2017 - Closing the Grammarly® Gaps A Study of Claims and.pdf:application/pdf
+      \endverb
       \verb{urlraw}
       \verb https://www.jstor.org/stable/44252638
       \endverb
@@ -63,13 +107,321 @@
       \verb https://www.jstor.org/stable/44252638
       \endverb
     \endentry
-    \entry{noauthor_grammarly._nodate}{misc}{}
-      \field{sortinit}{G}
-      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+    \entry{li_rethinking_2015}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=5b749b35017dfdf70cdad25f40faff73}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Jinrong},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6c04f28ee056e4f99d38ff93fad92b04}{%
+           family={Link},
+           familyi={L\bibinitperiod},
+           given={Stephanie},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c4ad7f8f073dee196279d16093ef63b3}{%
+           family={Hegelheimer},
+           familyi={H\bibinitperiod},
+           given={Volker},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7756b2b4e520b67f8b674befca27a05d}
+      \strng{fullhash}{2d37d6769370b4bf7ab2a2e9723180e2}
+      \strng{bibnamehash}{2d37d6769370b4bf7ab2a2e9723180e2}
+      \strng{authorbibnamehash}{2d37d6769370b4bf7ab2a2e9723180e2}
+      \strng{authornamehash}{7756b2b4e520b67f8b674befca27a05d}
+      \strng{authorfullhash}{2d37d6769370b4bf7ab2a2e9723180e2}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The development of language processing technologies and statistical methods has enabled modern automated writing evaluation (AWE) systems to provide feedback on language and content in addition to an automated score. However, concerns have been raised with regard to the instructional and assessment value of AWE in writing classrooms. The findings from a few classroom-based studies concerning the impact of AWE on writing instruction and performance are largely inconclusive. Meanwhile, since research provides favorable evidence for the reliability of AWE corrective feedback, and that writing accuracy is both an important and frustrating issue, it is worthwhile to examine more specifically the impact of AWE corrective feedback on writing accuracy. Therefore, the study used mixed-methods to investigate how Criterion® affected writing instruction and performance. Results suggested that Criterion® has led to increased revisions, and that the corrective feedback from Criterion® helped improve accuracy from a rough to a final draft. The potential benefits were also confirmed by the instructors’ interviews. The students’ perspectives were mixed, but the extent to which the views vary may depend on the students’ language proficiency level and their instructors’ use and perspectives of AWE.}
+      \field{issn}{1060-3743}
+      \field{journaltitle}{Journal of Second Language Writing}
+      \field{month}{3}
+      \field{title}{Rethinking the role of automated writing evaluation ({AWE}) feedback in {ESL} writing instruction}
+      \field{urlday}{14}
+      \field{urlmonth}{10}
+      \field{urlyear}{2019}
+      \field{volume}{27}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 18}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1016/j.jslw.2014.10.004
+      \endverb
+      \verb{file}
+      \verb Full Text:/home/tobias/Zotero/storage/SEA6JHNI/Li et al. - 2015 - Rethinking the role of automated writing evaluatio.pdf:application/pdf;ScienceDirect Snapshot:/home/tobias/Zotero/storage/DUZQZTFA/S1060374314000757.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/S1060374314000757
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S1060374314000757
+      \endverb
+      \keyw{AWE,Corrective feedback,ESL writing,Mixed-methods research}
+    \endentry
+    \entry{nova_utilizing_2018}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=107b22224000d5e2d7890f6a877d16d0}{%
+           family={Nova},
+           familyi={N\bibinitperiod},
+           given={Muhamad},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{107b22224000d5e2d7890f6a877d16d0}
+      \strng{fullhash}{107b22224000d5e2d7890f6a877d16d0}
+      \strng{bibnamehash}{107b22224000d5e2d7890f6a877d16d0}
+      \strng{authorbibnamehash}{107b22224000d5e2d7890f6a877d16d0}
+      \strng{authornamehash}{107b22224000d5e2d7890f6a877d16d0}
+      \strng{authorfullhash}{107b22224000d5e2d7890f6a877d16d0}
+      \field{sortinit}{N}
+      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{With the development of technology, any writer now can easily check their academic writing with automated writing evaluation program. Though, the utilization of this program may bring both benefits and drawbacks. Thus, a consideration of its strengths and weaknesses is needed. To fill the need, this study aimed to identify the strengths and weaknesses of Grammarly program as an automated writing evaluation program in evaluating academic writing. Using a narrative inquiry in exploring three Indonesian postgraduate students’ experiences by conducting interview and documentation, the result showed that this program has provided useful color-coded feedback with explanation and example, ease of account access, high rate of evaluation speed, and free service for evaluating academic writing. However, some caveats were also found in this program utilization, such as several misleading feedbacks, weaknesses on detecting the type of English and reference list, and lack of context and content evaluation experienced, which became the weaknesses of this program. Further investigation on the efficiency of the feedback given by Grammarly in improving students’ writing quality is needed.}
+      \field{issn}{2442-482X}
+      \field{journaltitle}{Premise: Journal of English Education}
+      \field{month}{4}
+      \field{number}{1}
+      \field{shorttitle}{{UTILIZING} {GRAMMARLY} {IN} {EVALUATING} {ACADEMIC} {WRITING}}
+      \field{title}{{UTILIZING} {GRAMMARLY} {IN} {EVALUATING} {ACADEMIC} {WRITING}: {A} {NARRATIVE} {RESEARCH} {ON} {EFL} {STUDENTS}’ {EXPERIENCE}}
+      \field{urlday}{23}
+      \field{urlmonth}{10}
+      \field{urlyear}{2019}
+      \field{volume}{7}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \field{pages}{80\bibrangedash 97}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.24127/pj.v7i1.1332
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/home/tobias/Zotero/storage/C444MJV5/Nova - 2018 - UTILIZING GRAMMARLY IN EVALUATING ACADEMIC WRITING.pdf:application/pdf;Snapshot:/home/tobias/Zotero/storage/UIWABZT4/1332.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://ojs.fkip.ummetro.ac.id/index.php/english/article/view/1332
+      \endverb
+      \verb{url}
+      \verb http://ojs.fkip.ummetro.ac.id/index.php/english/article/view/1332
+      \endverb
+      \keyw{academic writing,automated writing evaluation,experience,Grammarly}
+    \endentry
+    \entry{qassemzadeh_impact_2016}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=90e44252eb3c30353f03a07ffdba925a}{%
+           family={Qassemzadeh},
+           familyi={Q\bibinitperiod},
+           given={Abolfazl},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c0a245e90650787bcbf0438c9219db70}{%
+           family={Soleimani},
+           familyi={S\bibinitperiod},
+           given={Hassan},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{f81f9bdc341bd88e9f9eda0d0ec31f66}
+      \strng{fullhash}{f81f9bdc341bd88e9f9eda0d0ec31f66}
+      \strng{bibnamehash}{f81f9bdc341bd88e9f9eda0d0ec31f66}
+      \strng{authorbibnamehash}{f81f9bdc341bd88e9f9eda0d0ec31f66}
+      \strng{authornamehash}{f81f9bdc341bd88e9f9eda0d0ec31f66}
+      \strng{authorfullhash}{f81f9bdc341bd88e9f9eda0d0ec31f66}
+      \field{sortinit}{Q}
+      \field{sortinithash}{c54e16deb53fc904a621fa8fd8703b5a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A major concern in today's world of pedagogy in general and language teaching, in particular, is the application of computer-assisted learning to improve students' achievement. There has been a long time that in the classroom setting only the teacher's feedback in a traditional way has been used in teaching. Due to the fact that this kind of notion can be traced back to a traditional attitude toward feedback, we looked for a new alternative in order to bring some innovation in an educational environment, namely Grammarly Software feedback provision. Therefore, the aim of the present study was to explore the impact of feedback provision by Grammarly Software and teachers on learning passive structures by EFL learners. Through convenience sampling, 70 intermediate male and female EFL learners were selected, then they were randomly assigned to two main groups: the experimental and control group. A grammar pre-test, a post-test, and a delayed post-test were administrated to the participants in six sessions. The results of the data gathered from pre-test and post-test reveal that the effect of teacher on learning passive structure, in pre-test and post-test, were more than the effect of Grammarly Software on learning passive structure of the learners, and the effect of Grammarly Software on learning passive structure in delayed post-test scores was more than the effect of teacher on learning passive structure of learners. The results might have implications for language teachers, learners, and materials developers.}
+      \field{annotation}{quite useless  }
+      \field{issn}{1799-2591}
+      \field{journaltitle}{Theory and Practice in Language Studies}
+      \field{month}{9}
+      \field{number}{9}
+      \field{title}{The {Impact} of {Feedback} {Provision} by {Grammarly} {Software} and {Teachers} on {Learning} {Passive} {Structures} by {Iranian} {EFL} {Learners}}
+      \field{urlday}{23}
+      \field{urlmonth}{10}
+      \field{urlyear}{2019}
+      \field{volume}{6}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{1884\bibrangedash 1894}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.17507/tpls.0609.23
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/home/tobias/Zotero/storage/VU3LGRMN/Qassemzadeh and Soleimani - 2016 - The Impact of Feedback Provision by Grammarly Soft.pdf:application/pdf;Snapshot:/home/tobias/Zotero/storage/8ABS9QQX/tpls060918841894.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://www.academypublication.com/ojs/index.php/tpls/article/view/tpls060918841894
+      \endverb
+      \verb{url}
+      \verb http://www.academypublication.com/ojs/index.php/tpls/article/view/tpls060918841894
+      \endverb
+      \keyw{grammarly software,passive structure,software feedback,teacher's feedback}
+    \endentry
+    \entry{ventayen_graduate_2018}{report}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=5a644da21a018ce662798e520ce72f19}{%
+           family={Ventayen},
+           familyi={V\bibinitperiod},
+           given={Randy\bibnamedelimb Joy\bibnamedelima Magno},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2b31b2e6e30b7f36c252676ca7676f9a}{%
+           family={Orlanda-Ventayen},
+           familyi={O\bibinithyphendelim V\bibinitperiod},
+           given={Caren\bibnamedelima C.},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Social Science Research Network}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Rochester, NY}%
+      }
+      \strng{namehash}{527643828180ab738c1bc8fcaa6e1be7}
+      \strng{fullhash}{527643828180ab738c1bc8fcaa6e1be7}
+      \strng{bibnamehash}{527643828180ab738c1bc8fcaa6e1be7}
+      \strng{authorbibnamehash}{527643828180ab738c1bc8fcaa6e1be7}
+      \strng{authornamehash}{527643828180ab738c1bc8fcaa6e1be7}
+      \strng{authorfullhash}{527643828180ab738c1bc8fcaa6e1be7}
+      \field{sortinit}{V}
+      \field{sortinithash}{02432525618c08e2b03cac47c19764af}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{One of the criteria for excellent work is a perfect grammar in English, which is the global lingua franca. The Pangasinan State University subscribed to Grammarly® software which considered as one of the leading grammar checker and plagiarism tester software available. The objective of the paper is to evaluate the software based on the perception of the graduate students from the Graduate Students of PSU Open University Systems. The selection of participants is purposive where 20\% of the total graduate students of the Batch 2018 who completed there thesis writing before graduation was selected as the respondents. A SUS questionnaire and follow up the interview as part of the triangulation method was used in order to determine the usability of the software, its strengths, and weakness. This study also focuses on the impact of the application for Non-English majors. Based on the result of the study, the majority of the respondents agree that the utilized software is usable. The users identified the strength of the software that helps the user improve writing such as automatic detection of mistakes in Conceptual Writing, Grammar, Punctuation, Sentence Structure, Style and Vocabulary Enhancement. While other users also identified some weakness for possible future improvement of the software, the overall result shows that there is a significant improvement in writing for English and non-English majors. Students who are not English majors showed that there is a significant change of confidence level in writing. It recommends that the software is continuously utilized. It is also recommended that the software should improve its detection to avoid misleading feedback for users.}
+      \field{month}{8}
+      \field{number}{ID 3310702}
+      \field{title}{Graduate {Students}’ {Perspective} on the {Usability} of {Grammarly}® in {One} {ASEAN} {State} {University}}
+      \field{type}{{SSRN} {Scholarly} {Paper}}
+      \field{urlday}{23}
+      \field{urlmonth}{10}
+      \field{urlyear}{2019}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/tobias/Zotero/storage/3BKVPHZX/papers.html:text/html;Ventayen and Orlanda-Ventayen - 2018 - Graduate Students’ Perspective on the Usability of.pdf:/home/tobias/Zotero/storage/NETC3E9F/Ventayen and Orlanda-Ventayen - 2018 - Graduate Students’ Perspective on the Usability of.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://papers.ssrn.com/abstract=3310702
+      \endverb
+      \verb{url}
+      \verb https://papers.ssrn.com/abstract=3310702
+      \endverb
+      \keyw{grammar checker,grammarly,plagiarism test}
+    \endentry
+    \entry{vojak_new_2011}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=6e915f3c451ce73e03f30cca08d42078}{%
+           family={Vojak},
+           familyi={V\bibinitperiod},
+           given={Colleen},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d3fd3ddccbe84b87e4b90830fcaed26a}{%
+           family={Kline},
+           familyi={K\bibinitperiod},
+           given={Sonia},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9a3df63407e33094df9b484057e45234}{%
+           family={Cope},
+           familyi={C\bibinitperiod},
+           given={Bill},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=acf05371eb050dd386db2621f906aaee}{%
+           family={McCarthey},
+           familyi={M\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=69f8fe140864c3c6030c2c8c56497852}{%
+           family={Kalantzis},
+           familyi={K\bibinitperiod},
+           given={Mary},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ffafd312654a2e5cb777fa353c574511}
+      \strng{fullhash}{dba04bd0430cc05a93cd092d16a8b334}
+      \strng{bibnamehash}{dba04bd0430cc05a93cd092d16a8b334}
+      \strng{authorbibnamehash}{dba04bd0430cc05a93cd092d16a8b334}
+      \strng{authornamehash}{ffafd312654a2e5cb777fa353c574511}
+      \strng{authorfullhash}{dba04bd0430cc05a93cd092d16a8b334}
+      \field{sortinit}{V}
+      \field{sortinithash}{02432525618c08e2b03cac47c19764af}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This article examines the strengths and weaknesses of emerging writing assessment technologies. Instead of providing a comprehensive review of each program, we take a deliberately selective approach using three key understandings about writing as a framework for analysis: writing is a socially situated activity; writing is functionally and formally diverse; and writing is a meaning-making activity that can be conveyed in multiple modalities. We conclude that the programs available today largely neglect the potential of emerging technologies to promote a broader vision of writing. Instead, they tend to align with the narrow view of writing dominant in a more recent era of testing and accountability, a view that is increasingly thrown into question. New technologies, we conclude, are for the most part being used to reinforce old practices. At a time when computer technology is increasingly looked to as a way to improve assessment, these findings have important implications.}
+      \field{issn}{8755-4615}
+      \field{journaltitle}{Computers and Composition}
+      \field{month}{6}
+      \field{number}{2}
+      \field{shorttitle}{New {Spaces} and {Old} {Places}}
+      \field{title}{New {Spaces} and {Old} {Places}: {An} {Analysis} of {Writing} {Assessment} {Software}}
+      \field{urlday}{14}
+      \field{urlmonth}{10}
+      \field{urlyear}{2019}
+      \field{volume}{28}
+      \field{year}{2011}
+      \field{urldateera}{ce}
+      \field{pages}{97\bibrangedash 111}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1016/j.compcom.2011.04.004
+      \endverb
+      \verb{file}
+      \verb Full Text:/home/tobias/Zotero/storage/E2W48C4U/Vojak et al. - 2011 - New Spaces and Old Places An Analysis of Writing .pdf:application/pdf;ScienceDirect Snapshot:/home/tobias/Zotero/storage/KKK5ZYV6/S8755461511000259.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/S8755461511000259
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S8755461511000259
+      \endverb
+      \keyw{Assessment,Learner feedback,Pedagogy,Technology,Writing}
+    \endentry
+    \entry{noauthor_write_nodate}{misc}{}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
       \field{labeldatesource}{nodate}
       \field{labeltitlesource}{title}
       \field{abstract}{Grammarly makes sure everything you type is easy to read, effective, and mistake-free. Try it today:}
-      \field{title}{Grammarly.}
+      \field{title}{Write your best with {Grammarly}.}
       \field{urlday}{27}
       \field{urlmonth}{11}
       \field{urlyear}{2019}
