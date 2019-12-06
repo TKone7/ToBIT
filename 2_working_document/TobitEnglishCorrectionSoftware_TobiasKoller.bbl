@@ -60,6 +60,65 @@
       \verb Cavaleri and Dianati - 2016 - You want me to check your grammar again The usefu.pdf:/home/tobias/Zotero/storage/DK2JJ7IG/Cavaleri and Dianati - 2016 - You want me to check your grammar again The usefu.pdf:application/pdf
       \endverb
     \endentry
+    \entry{davis_user_1989}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=dcb59a9c9bf67cc1c74d13fb3a9f33a7}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={Fred\bibnamedelima D.},
+           giveni={F\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f4b8793e18ee301010da467aac52d7f5}{%
+           family={Bagozzi},
+           familyi={B\bibinitperiod},
+           given={Richard\bibnamedelima P.},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=faf5a04b1ca12e0db90b267d1254bebb}{%
+           family={Warshaw},
+           familyi={W\bibinitperiod},
+           given={Paul\bibnamedelima R.},
+           giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fad3d6cb6e457abb9d4c41ce79d5e6b2}
+      \strng{fullhash}{aaeefe9a26d1496f16c98aab0bd01283}
+      \strng{bibnamehash}{aaeefe9a26d1496f16c98aab0bd01283}
+      \strng{authorbibnamehash}{aaeefe9a26d1496f16c98aab0bd01283}
+      \strng{authornamehash}{fad3d6cb6e457abb9d4c41ce79d5e6b2}
+      \strng{authorfullhash}{aaeefe9a26d1496f16c98aab0bd01283}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Computer systems cannot improve organizational performance if they aren't used. Unfortunately, resistance to end-user systems by managers and professionals is a widespread problem. To better predict, explain, and increase user acceptance, we need to better understand why people accept or reject computers. This research addresses the ability to predict peoples' computer acceptance from a measure of their intentions, and the ability to explain their intentions in terms of their attitudes, subjective norms, perceived usefulness, perceived ease of use, and related variables. In a longitudinal study of 107 users, intentions to use a specific system, measured after a one-hour introduction to the system, were correlated 0.35 with system use 14 weeks later. The intention-usage correlation was 0.63 at the end of this time period. Perceived usefulness strongly influenced peoples' intentions, explaining more than half of the variance in intentions at the end of 14 weeks. Perceived ease of use had a small but significant effect on intentions as well, although this effect subsided over time. Attitudes only partially mediated the effects of these beliefs on intentions. Subjective norms had no effect on intentions. These results suggest the possibility of simple but powerful models of the determinants of user acceptance, with practical value for evaluating systems and guiding managerial interventions aimed at reducing the problem of underutilized computer technology.}
+      \field{issn}{0025-1909}
+      \field{journaltitle}{Management Science}
+      \field{month}{8}
+      \field{number}{8}
+      \field{shorttitle}{User {Acceptance} of {Computer} {Technology}}
+      \field{title}{User {Acceptance} of {Computer} {Technology}: {A} {Comparison} of {Two} {Theoretical} {Models}}
+      \field{urlday}{5}
+      \field{urlmonth}{12}
+      \field{urlyear}{2019}
+      \field{volume}{35}
+      \field{year}{1989}
+      \field{urldateera}{ce}
+      \field{pages}{982\bibrangedash 1003}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1287/mnsc.35.8.982
+      \endverb
+      \verb{urlraw}
+      \verb https://pubsonline.informs.org/doi/abs/10.1287/mnsc.35.8.982
+      \endverb
+      \verb{url}
+      \verb https://pubsonline.informs.org/doi/abs/10.1287/mnsc.35.8.982
+      \endverb
+    \endentry
     \entry{dembsey_closing_2017}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=831bf62cd223446a32c21a05ce2a5634}{%
@@ -220,7 +279,7 @@
       \verb{url}
       \verb http://ojs.fkip.ummetro.ac.id/index.php/english/article/view/1332
       \endverb
-      \keyw{academic writing,automated writing evaluation,experience,Grammarly}
+      \keyw{automated writing evaluation,academic writing,experience,Grammarly}
     \endentry
     \entry{qassemzadeh_impact_2016}{article}{}
       \name{author}{2}{}{%
@@ -387,6 +446,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{This article examines the strengths and weaknesses of emerging writing assessment technologies. Instead of providing a comprehensive review of each program, we take a deliberately selective approach using three key understandings about writing as a framework for analysis: writing is a socially situated activity; writing is functionally and formally diverse; and writing is a meaning-making activity that can be conveyed in multiple modalities. We conclude that the programs available today largely neglect the potential of emerging technologies to promote a broader vision of writing. Instead, they tend to align with the narrow view of writing dominant in a more recent era of testing and accountability, a view that is increasingly thrown into question. New technologies, we conclude, are for the most part being used to reinforce old practices. At a time when computer technology is increasingly looked to as a way to improve assessment, these findings have important implications.}
+      \field{annotation}{mentions accuracy on e-rater  }
       \field{issn}{8755-4615}
       \field{journaltitle}{Computers and Composition}
       \field{month}{6}
@@ -414,6 +474,66 @@
       \verb http://www.sciencedirect.com/science/article/pii/S8755461511000259
       \endverb
       \keyw{Assessment,Learner feedback,Pedagogy,Technology,Writing}
+    \endentry
+    \entry{warschauer_automated_2006}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=cbaa894ba874a6f04587306c2e11c3ba}{%
+           family={Warschauer},
+           familyi={W\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=efea6bc81b36687aa9cf560c61d507db}{%
+           family={Ware},
+           familyi={W\bibinitperiod},
+           given={Paige},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{bac8f1c8c96bad90c496d136d77355d8}
+      \strng{fullhash}{bac8f1c8c96bad90c496d136d77355d8}
+      \strng{bibnamehash}{bac8f1c8c96bad90c496d136d77355d8}
+      \strng{authorbibnamehash}{bac8f1c8c96bad90c496d136d77355d8}
+      \strng{authornamehash}{bac8f1c8c96bad90c496d136d77355d8}
+      \strng{authorfullhash}{bac8f1c8c96bad90c496d136d77355d8}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{With the advent of English as a global language, the ability to write well in English across diverse settings and for different audiences has become an imperative in second language education programmes throughout the world. Yet the teaching of second language writing is often hindered by the great amount of time and skill needed to evaluate repeated drafts of student writing. Online Automated Writing Evaluation programmes have been developed as a way to meet this challenge, and the scoring engines driving such programmes have been analysed in a considerable array of psychometric studies. However, relatively little research has been conducted on how AWE is used in the classroom and the results achieved with such use. In this article, we analyse recent developments in automated writing evaluation, explain the bases on which AWE systems operate, synthesize research with these systems, and propose a multifaceted process/product research programme on the instructional use of AWE. We explore this emerging area of inquiry by proposing a range of potential questions, methodologies and analytical tools that can define such a research agenda.}
+      \field{annotation}{maybe related}
+      \field{issn}{1362-1688}
+      \field{journaltitle}{Language Teaching Research}
+      \field{month}{4}
+      \field{number}{2}
+      \field{shorttitle}{Automated writing evaluation}
+      \field{title}{Automated writing evaluation: defining the classroom research agenda}
+      \field{urlday}{14}
+      \field{urlmonth}{10}
+      \field{urlyear}{2019}
+      \field{volume}{10}
+      \field{year}{2006}
+      \field{urldateera}{ce}
+      \field{pages}{157\bibrangedash 180}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1191/1362168806lr190oa
+      \endverb
+      \verb{file}
+      \verb Warschauer and Ware - 2006 - Automated writing evaluation defining the classro.pdf:/home/tobias/Zotero/storage/46Y8NFAR/Warschauer and Ware - 2006 - Automated writing evaluation defining the classro.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1191/1362168806lr190oa
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1191/1362168806lr190oa
+      \endverb
     \endentry
     \entry{noauthor_write_nodate}{misc}{}
       \field{sortinit}{W}
