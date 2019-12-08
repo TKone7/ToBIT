@@ -221,67 +221,6 @@
       \endverb
       \keyw{automated writing evaluation,artifical intelligence,automated essay scoring,composition,writing}
     \endentry
-    \entry{li_rethinking_2015}{article}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=5b749b35017dfdf70cdad25f40faff73}{%
-           family={Li},
-           familyi={L\bibinitperiod},
-           given={Jinrong},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=6c04f28ee056e4f99d38ff93fad92b04}{%
-           family={Link},
-           familyi={L\bibinitperiod},
-           given={Stephanie},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c4ad7f8f073dee196279d16093ef63b3}{%
-           family={Hegelheimer},
-           familyi={H\bibinitperiod},
-           given={Volker},
-           giveni={V\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{7756b2b4e520b67f8b674befca27a05d}
-      \strng{fullhash}{2d37d6769370b4bf7ab2a2e9723180e2}
-      \strng{bibnamehash}{2d37d6769370b4bf7ab2a2e9723180e2}
-      \strng{authorbibnamehash}{2d37d6769370b4bf7ab2a2e9723180e2}
-      \strng{authornamehash}{7756b2b4e520b67f8b674befca27a05d}
-      \strng{authorfullhash}{2d37d6769370b4bf7ab2a2e9723180e2}
-      \field{sortinit}{L}
-      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{The development of language processing technologies and statistical methods has enabled modern automated writing evaluation (AWE) systems to provide feedback on language and content in addition to an automated score. However, concerns have been raised with regard to the instructional and assessment value of AWE in writing classrooms. The findings from a few classroom-based studies concerning the impact of AWE on writing instruction and performance are largely inconclusive. Meanwhile, since research provides favorable evidence for the reliability of AWE corrective feedback, and that writing accuracy is both an important and frustrating issue, it is worthwhile to examine more specifically the impact of AWE corrective feedback on writing accuracy. Therefore, the study used mixed-methods to investigate how Criterion® affected writing instruction and performance. Results suggested that Criterion® has led to increased revisions, and that the corrective feedback from Criterion® helped improve accuracy from a rough to a final draft. The potential benefits were also confirmed by the instructors’ interviews. The students’ perspectives were mixed, but the extent to which the views vary may depend on the students’ language proficiency level and their instructors’ use and perspectives of AWE.}
-      \field{issn}{1060-3743}
-      \field{journaltitle}{Journal of Second Language Writing}
-      \field{month}{3}
-      \field{title}{Rethinking the role of automated writing evaluation ({AWE}) feedback in {ESL} writing instruction}
-      \field{urlday}{14}
-      \field{urlmonth}{10}
-      \field{urlyear}{2019}
-      \field{volume}{27}
-      \field{year}{2015}
-      \field{urldateera}{ce}
-      \field{pages}{1\bibrangedash 18}
-      \range{pages}{18}
-      \verb{doi}
-      \verb 10.1016/j.jslw.2014.10.004
-      \endverb
-      \verb{file}
-      \verb Full Text:/home/tobias/Zotero/storage/SEA6JHNI/Li et al. - 2015 - Rethinking the role of automated writing evaluatio.pdf:application/pdf;ScienceDirect Snapshot:/home/tobias/Zotero/storage/DUZQZTFA/S1060374314000757.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb http://www.sciencedirect.com/science/article/pii/S1060374314000757
-      \endverb
-      \verb{url}
-      \verb http://www.sciencedirect.com/science/article/pii/S1060374314000757
-      \endverb
-      \keyw{AWE,Corrective feedback,ESL writing,Mixed-methods research}
-    \endentry
     \entry{nova_utilizing_2018}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=107b22224000d5e2d7890f6a877d16d0}{%
