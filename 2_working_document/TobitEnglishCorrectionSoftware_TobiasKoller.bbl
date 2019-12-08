@@ -166,6 +166,61 @@
       \verb https://www.jstor.org/stable/44252638
       \endverb
     \endentry
+    \entry{grimes_utility_2010}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=43799db43a6271a0a4e6b77d4fdcae75}{%
+           family={Grimes},
+           familyi={G\bibinitperiod},
+           given={Douglas},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cbaa894ba874a6f04587306c2e11c3ba}{%
+           family={Warschauer},
+           familyi={W\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{6ba4e8a3a201737c15111726f315a8e0}
+      \strng{fullhash}{6ba4e8a3a201737c15111726f315a8e0}
+      \strng{bibnamehash}{6ba4e8a3a201737c15111726f315a8e0}
+      \strng{authorbibnamehash}{6ba4e8a3a201737c15111726f315a8e0}
+      \strng{authornamehash}{6ba4e8a3a201737c15111726f315a8e0}
+      \strng{authorfullhash}{6ba4e8a3a201737c15111726f315a8e0}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Automated writing evaluation (AWE) software uses artificial intelligence (AI) to score student essays and support revision. We studied how an AWE program called MY Access!® was used in eight middle schools in Southern California over a three-year period. Although many teachers and students considered automated scoring unreliable, and teachers’ use of AWE was limited by the desire to use conventional writing methods, use of the software still brought important benefits. Observations, interviews, and a survey indicated that using AWE simplified classroom management and increased students’ motivation to write and revise.}
+      \field{issn}{1540-2525}
+      \field{journaltitle}{The Journal of Technology, Learning and Assessment}
+      \field{month}{3}
+      \field{number}{6}
+      \field{shorttitle}{Utility in a {Fallible} {Tool}}
+      \field{title}{Utility in a {Fallible} {Tool}: {A} {Multi}-{Site} {Case} {Study} of {Automated} {Writing} {Evaluation}}
+      \field{urlday}{14}
+      \field{urlmonth}{10}
+      \field{urlyear}{2019}
+      \field{volume}{8}
+      \field{year}{2010}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Full Text PDF:/home/tobias/Zotero/storage/9J4DUWGR/Grimes and Warschauer - 2010 - Utility in a Fallible Tool A Multi-Site Case Stud.pdf:application/pdf;Snapshot:/home/tobias/Zotero/storage/5MZXU8AM/1625.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://ejournals.bc.edu/index.php/jtla/article/view/1625
+      \endverb
+      \verb{url}
+      \verb https://ejournals.bc.edu/index.php/jtla/article/view/1625
+      \endverb
+      \keyw{automated writing evaluation,artifical intelligence,automated essay scoring,composition,writing}
+    \endentry
     \entry{li_rethinking_2015}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=5b749b35017dfdf70cdad25f40faff73}{%
