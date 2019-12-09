@@ -185,9 +185,28 @@ In its basic form syntactic parsing only fullfills the role of grammer error det
 The main advantage of constraint relaxation in syntactic parsing is that it provides the full analysis of the structure and at the same time diagnoses the violations to the underlying syntacic constraints \citep{vandeventer_creating_2001}. The problem with this approach is the memory intensive computing. This is due to the fact that every correct sentence does not only match with the correct structure but also with all the relaxed versions of that structure. Additionally, the constraints of parsing are manually assembled which represents a labor intense task. 
 
 \subsection{Statistical technique}
-The statistical approach also makes use of the POS representation of a sentence. Other than the syntactical approach it does not depend on predefined rules, instead it learns from POS-annotated corpus \citep{manchanda_various_2016}. 
+The statistical approach also makes use of the POS representation of a sentence. Other than the syntactical approach it does not depend on predefined rules, instead it learns from POS-annotated corpus \citep{manchanda_various_2016}. The decision whether a sentence is well-formed or not depends on the statistical measures of the frequency of those POS sequences in the corpus. It is therefore crucial that corpus of language is well chosen for the task. This means that different types of writing may need different text corpora. Different language differy widely in the sequences of POS considered as correct, which requires also seperate annotated corpora.
 
-explain pos-tags for statistical approach (https://www.sketchengine.eu/pos-tags/)
+Great advantage in this procedure is the irrelevancy of any hand-crafted rules. A large enough POS annotated corpus is sufficient to achieve the desired results. However, the occurences considered as incorrect based on non-occurence in the corpus cannot be explained. The author is left uninformed about the reason for the detected error. This disadvantage can be mitigated by building the model not only with the POS tagged features but add a lexical feature-set \citep{gamon_using_2009}.
+
+\subsection{Rule based technique}
+The rule based technique requires the composing of a collection of error rules \citep{manchanda_various_2016}. These rules describe errors by use of POS tags that are expected to occur in the text. For every possible error an individual rule must be manually constructed. It is self-evident that this technique will never lead to a complete set of rules, since the types of erroneous senteces is innumerable. As the rules are specifically constructed for a type of error it is simple to add a detailed description with a suggestion how to fix it supplemented with the affected grammar rules.
+
+One variation of this rule based technique does not require the definition of each individual error but allows the matching of whole error types by usage of regular expressions in n-gram templates \citep{kantrowitz_method_2003}. An n-gram is a sequence of n words in a sentence that is matched against the set of rules. The regular expressions are used so that not all the characters of a word must match the rule. This invention allows the replacement of the illegal n-gram with a legal one as the following examples illustrate:
+
+\textbf{\textit{Example 1:}}
+\newline Rule: fuly\$ $\rightarrow$ fully
+\newline\textbf{illegal n-gram}: hopefu\textbf{l}ey
+\newline\textbf{replacement:} hopefu\textbf{ll}y
+\newline(\$ represents the end of the word)
+
+\textbf{\textit{Example 2:}}
+\newline Rule: their seem $\rightarrow$ there seem
+\newline\textbf{illegal n-gram}: the\textbf{ir} seems to be...
+\newline\textbf{replacement:} the\textbf{re} seems to be...
+
+This kind of matching allows to cover numerous common errors with just one rule. The replacement of the error is then done in a context specific fashion since only errors in the specified n-gram are being replaced. This approach does not find all errors but if an issue was detected has a high certainty for a replacement and does not introduce new errors. Therefore, this technique is specially useful for automated replacements.
+
 
 \section{Self experiment}
 

@@ -226,6 +226,84 @@
       \verb https://www.jstor.org/stable/44252638
       \endverb
     \endentry
+    \entry{gamon_using_2009}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=8dfb40b4f3b7bcdec9fb5665b055be85}{%
+           family={Gamon},
+           familyi={G\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4809f9384db164c4bec54eaa8c227a87}{%
+           family={Leacock},
+           familyi={L\bibinitperiod},
+           given={Claudia},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=15e87e276e6019ac1304793ab77184be}{%
+           family={Brockett},
+           familyi={B\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b959508c46d185e57dbf6679413affef}{%
+           family={Dolan},
+           familyi={D\bibinitperiod},
+           given={William\bibnamedelima B.},
+           giveni={W\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=159bca5607e3797666654a2e3022978a}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Jianfeng},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=30d547b819fd7330db7a91f26d5ab7db}{%
+           family={Belenko},
+           familyi={B\bibinitperiod},
+           given={Dmitriy},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=26e4a723ed3bd76114039830ddb58d10}{%
+           family={Klementiev},
+           familyi={K\bibinitperiod},
+           given={Alexandre},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{05cff0d0e1b4fb325c38666e8e9ab678}
+      \strng{fullhash}{e5e1a5d836cc15750ecc0ce8f0b0a9a5}
+      \strng{bibnamehash}{e5e1a5d836cc15750ecc0ce8f0b0a9a5}
+      \strng{authorbibnamehash}{e5e1a5d836cc15750ecc0ce8f0b0a9a5}
+      \strng{authornamehash}{05cff0d0e1b4fb325c38666e8e9ab678}
+      \strng{authorfullhash}{e5e1a5d836cc15750ecc0ce8f0b0a9a5}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract In this paper we present a system for automatic correction of errors made by learners of English. The system has two novel aspects. First, machine-learned classifiers trained on large amounts of native data and a very large language model are combined to optimize the precision of suggested corrections. Second, the user can access real-life web examples of both their original formulation and the suggested correction. We discuss technical details of the system, including the choice of classifier, feature sets, and language model. We also present results from an evaluation of the system on a set of corpora. We perform an automatic evaluation on native English data and a detailed manual analysis of performance on three corpora of nonnative writing: the Chinese Learners' of English Corpus (CLEC) and two corpora of web and email writing.}
+      \field{issn}{0742-7778}
+      \field{journaltitle}{CALICO Journal}
+      \field{number}{3}
+      \field{title}{Using {Statistical} {Techniques} and {Web} {Search} to {Correct} {ESL} {Errors}}
+      \field{urlday}{9}
+      \field{urlmonth}{12}
+      \field{urlyear}{2019}
+      \field{volume}{26}
+      \field{year}{2009}
+      \field{urldateera}{ce}
+      \field{pages}{491\bibrangedash 511}
+      \range{pages}{21}
+      \verb{urlraw}
+      \verb www.jstor.org/stable/calicojournal.26.3.491
+      \endverb
+      \verb{url}
+      \verb www.jstor.org/stable/calicojournal.26.3.491
+      \endverb
+    \endentry
     \entry{grimes_utility_2010}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=43799db43a6271a0a4e6b77d4fdcae75}{%
@@ -280,6 +358,53 @@
       \verb https://ejournals.bc.edu/index.php/jtla/article/view/1625
       \endverb
       \keyw{automated writing evaluation,artifical intelligence,automated essay scoring,composition,writing}
+    \endentry
+    \entry{kantrowitz_method_2003}{patent}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0f9f88d6d4edcc89f2ea88411c9e222f}{%
+           family={Kantrowitz},
+           familyi={K\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eec9fdeb0cce98cd518c3406eff1dde1}{%
+           family={Baluja},
+           familyi={B\bibinitperiod},
+           given={Shumeet},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c35d7b5db0bb28f18011393b4469647b}
+      \strng{fullhash}{c35d7b5db0bb28f18011393b4469647b}
+      \strng{bibnamehash}{c35d7b5db0bb28f18011393b4469647b}
+      \strng{authorbibnamehash}{c35d7b5db0bb28f18011393b4469647b}
+      \strng{authornamehash}{c35d7b5db0bb28f18011393b4469647b}
+      \strng{authorfullhash}{c35d7b5db0bb28f18011393b4469647b}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{9}
+      \field{number}{US6618697B1}
+      \field{title}{Method for rule-based correction of spelling and grammar errors}
+      \field{urlday}{9}
+      \field{urlmonth}{12}
+      \field{urlyear}{2019}
+      \field{year}{2003}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Fulltext PDF:/home/tobias/Zotero/storage/AL9KC6WR/Kantrowitz and Baluja - 2003 - Method for rule-based correction of spelling and g.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://patents.google.com/patent/US6618697B1/en
+      \endverb
+      \verb{url}
+      \verb https://patents.google.com/patent/US6618697B1/en
+      \endverb
+      \keyw{errors,rules,spelling,word,words}
     \endentry
     \entry{manchanda_various_2016}{article}{}
       \name{author}{3}{}{%
