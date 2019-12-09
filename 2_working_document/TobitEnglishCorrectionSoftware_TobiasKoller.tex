@@ -137,7 +137,7 @@ These results cover the conclusion by students interviewed by \citep{nova_utiliz
 
 However, some students detected also disadvantages that reduced the overall usefulness of Grammarly. Both \citeauthor{ventayen_graduate_2018} and  \citeauthor{nova_utilizing_2018} claimed that some parts of the document should be excluded from grammar checking like the bibliography that follows certain standards. Checking on a reference list does not yield any benefit and only distracts \citep{ventayen_graduate_2018, nova_utilizing_2018}. Another limitation found by \textcite{cavaleri_you_2016} was the complex language used in some of the recommendations. Deciding on whether to accept the change or not required some deeper understanding of the problem at hand. When students were not able to understand the issue and the underlying grammar rule they were not able to make those decisions. Therefore, advanced English writers could benefit more than others. The complex language used in the feedback cards can be seen as a barrier for beginner-level students. 
 
-\subsection{Application in classrooms}
+\subsection{AWE application in classrooms}
 \subsubsection{Automatic Writing Evaluation}
 Automatic Writing Evaluation (AWE) programmes are specially designed for the application in the classrooms where students write reports and essays. They use  \textquote[{\cite{grimes_utility_2010}}]{artificial intelligence (AI) to score stu-
 dent essays and support revision}.
@@ -161,9 +161,33 @@ Regarding the amount of revisions done by students, the first year did not show 
 
 \subsubsection{AWE usage} After looking at both the teacher's and the student's side we can conclude that AWE usage can remarkably improve the learning process. More time is available to focus on higher-level concerns like organisation and development since issues in spelling, punctuation, grammar and word choice were taken care of by the software. Overall student motivation significantly increased. According to \textcite{grimes_utility_2010} this need to be taken with care. The higher motivation observed was mainly based on the goal to reach a high score, not mainly to write better texts and learn from it. This shift from internal to external motivators is not beneficial to the students. Furthermore, students must be closely observed when using AWE and teachers need to take appropriate actions when they see problems. Not all students interact equally with this new support. Some might be distracted by the scoring while others lose motivation after receiving a good initial score. \citeauthor{grimes_utility_2010} concludes that there is a need for \textquote[{\cite{grimes_utility_2010}}]{sensible teachers who integrate AWE into a broader writing program emphasizing authentic communication, and who can help students recognize and compensate for the limitations of software that appears more intelligent at first than on deeper inspection.}.
 
+\vspace*{6mm}\hspace*{6mm} \textit{AWE effectiveness studied with control group in \cite{wang_exploring_2013}}  \par
 
 
 \section{Techniques of natural language processing}
+briefly explain difference between Grammatical error detection (GED) and grammatical error correction (GEC) by \cite{bell_context_2019}.
+
+\subsection{Part of speech tagging}
+Different techniques used for GED and GEC make use of part-of-speech (POS) tagging. During this process every word of a sentence is assigned a tag of its grammatical category \citep{noauthor_pos_2018}. The different tags used are defined in the tagset. They can vary by the degree of detail. Basic tags only distinguish between noun, verb, adjective, etc. while others distinguish male/female, plural/singular, tense and person. This tagging alone does not yet give any insight into the correctness of a sentence, it simply gives insight about the structure of a sentence and the role of the words in it. This then allows automated text processing software to do further analysis.
+
+\subsection{Syntactic parser}   
+The rules that describe the structure that a sentence has to conform with, are referred to as the syntax of a language. To detect ill-formed sentences the syntactic parsing can be applied. As a first step POS tagging needs to be applied to know about the structure of the sentence. In the next step the sentence is parsed by means of predefined constraints which resemble the rules of the specific language. According to \textcite{manchanda_various_2016} the sentence is matched with the given tree structures. If the sentence can matched with the constraints available the parsing succeeds and the sentence is syntactically correct. Failure of the parsing process simply tells that there is some syntactical error present, but does not reveal any further information.
+
+\textbf{\textit{Example 1:}} Constraint: subject-verb agreement for number and person. Sentence: ``\underline{He} (3rd person sg.) \underline{is} tall''. Result: Constraint matches.
+
+\textbf{\textit{Example 2:}} Constraint: subject-verb agreement for number and person. Sentence: ``\underline{He} (3rd person sg.) \underline{am} tall''. Result: Constraint does \textbf{not} match.
+
+\subsubsection{Constraint relaxation}
+In its basic form syntactic parsing only fullfills the role of grammer error detection but fails to provide insightful advice to the author. To do so, a diagnosis technique can be applied. The most widely used, constraint relaxation, is described here in more detail. In syntactic parsing the matching of partial structures is only allowed if the constraints are met \citep{vandeventer_creating_2001}. In constraint relaxation some of the constraints present are relaxed, meaning that a partial structure is allowed to match even if this constraint is violated. To give useful information to the user the relaxed constraint needs to be labelled while defining them. 
+
+\textbf{\textit{Example:}} Constraint: subject-verb agreement for number and person. Sentence: ``\underline{He} (3rd person sg.) \underline{am} tall''. Result: Constraint matches because it is relaxed. \textbf{Label:} Verb does not correspond to the subject.
+
+The main advantage of constraint relaxation in syntactic parsing is that it provides the full analysis of the structure and at the same time diagnoses the violations to the underlying syntacic constraints \citep{vandeventer_creating_2001}. The problem with this approach is the memory intensive computing. This is due to the fact that every correct sentence does not only match with the correct structure but also with all the relaxed versions of that structure. Additionally, the constraints of parsing are manually assembled which represents a labor intense task. 
+
+\subsection{Statistical technique}
+The statistical approach also makes use of the POS representation of a sentence. Other than the syntactical approach it does not depend on predefined rules, instead it learns from POS-annotated corpus \citep{manchanda_various_2016}. 
+
+explain pos-tags for statistical approach (https://www.sketchengine.eu/pos-tags/)
 
 \section{Self experiment}
 
