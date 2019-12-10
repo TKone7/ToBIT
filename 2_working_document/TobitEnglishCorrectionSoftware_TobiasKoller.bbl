@@ -226,6 +226,26 @@
       \verb https://www.jstor.org/stable/44252638
       \endverb
     \endentry
+    \entry{noauthor_ets_nodate}{misc}{}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{title}{{ETS} {Criterion} writing evaluation service}
+      \field{urlday}{10}
+      \field{urlmonth}{12}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb ETS Criterion writing evaluation service:/home/tobias/Zotero/storage/NXIRAYQP/default.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://criterion.ets.org/criterion/default.aspx
+      \endverb
+      \verb{url}
+      \verb https://criterion.ets.org/criterion/default.aspx
+      \endverb
+    \endentry
     \entry{gamon_using_2009}{article}{}
       \name{author}{7}{}{%
         {{un=0,uniquepart=base,hash=8dfb40b4f3b7bcdec9fb5665b055be85}{%
@@ -405,6 +425,46 @@
       \verb https://patents.google.com/patent/US6618697B1/en
       \endverb
       \keyw{errors,rules,spelling,word,words}
+    \endentry
+    \entry{lim_review_2012}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f4acd7eb0663358698dbd52dace12ed9}{%
+           family={Lim},
+           familyi={L\bibinitperiod},
+           given={Hyojung},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ee6746534f07640888880170332a02b1}{%
+           family={Kahng},
+           familyi={K\bibinitperiod},
+           given={Jimin},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c34c047a349fc46db87b8549ea56b98d}
+      \strng{fullhash}{c34c047a349fc46db87b8549ea56b98d}
+      \strng{bibnamehash}{c34c047a349fc46db87b8549ea56b98d}
+      \strng{authorbibnamehash}{c34c047a349fc46db87b8549ea56b98d}
+      \strng{authornamehash}{c34c047a349fc46db87b8549ea56b98d}
+      \strng{authorfullhash}{c34c047a349fc46db87b8549ea56b98d}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{must read  }
+      \field{journaltitle}{Language Learning \& Technology}
+      \field{number}{2}
+      \field{title}{Review of {Criterion} for {English} {Language} {Learning}}
+      \field{volume}{16}
+      \field{year}{2012}
+      \field{pages}{38\bibrangedash 45}
+      \range{pages}{8}
+      \verb{file}
+      \verb Full Text:/home/tobias/Zotero/storage/ACQNUBR5/Lim and Kahng - 2012 - Review of Criterion for English Language Learning.pdf:application/pdf
+      \endverb
     \endentry
     \entry{manchanda_various_2016}{article}{}
       \name{author}{3}{}{%
@@ -904,6 +964,53 @@
       \verb{url}
       \verb https://doi.org/10.1191/1362168806lr190oa
       \endverb
+    \endentry
+    \entry{weigle_validation_2010}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0607c64d4dcf15939df3788b9ba14471}{%
+           family={Weigle},
+           familyi={W\bibinitperiod},
+           given={Sara\bibnamedelima Cushing},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{0607c64d4dcf15939df3788b9ba14471}
+      \strng{fullhash}{0607c64d4dcf15939df3788b9ba14471}
+      \strng{bibnamehash}{0607c64d4dcf15939df3788b9ba14471}
+      \strng{authorbibnamehash}{0607c64d4dcf15939df3788b9ba14471}
+      \strng{authornamehash}{0607c64d4dcf15939df3788b9ba14471}
+      \strng{authorfullhash}{0607c64d4dcf15939df3788b9ba14471}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Automated scoring has the potential to dramatically reduce the time and costs associated with the assessment of complex skills such as writing, but its use must be validated against a variety of criteria for it to be accepted by test users and stakeholders. This study approaches validity by comparing human and automated scores on responses to TOEFL[R] iBT Independent writing tasks with several non-test indicators of writing ability: student self-assessment, instructor assessment, and independent ratings of non-test writing samples. Automated scores were produced using "e-rater"[R], developed by Educational Testing Service (ETS). Correlations between both human and "e-rater" scores and non-test indicators were moderate but consistent, providing criterion-related validity evidence for the use of "e-rater" along with human scores. The implications of the findings for the validity of automated scores are discussed. (Contains 10 tables and 2 notes.)}
+      \field{issn}{0265-5322}
+      \field{journaltitle}{Language Testing}
+      \field{month}{7}
+      \field{number}{3}
+      \field{title}{Validation of {Automated} {Scores} of {TOEFL} {iBT} {Tasks} against {Non}-{Test} {Indicators} of {Writing} {Ability}}
+      \field{urlday}{10}
+      \field{urlmonth}{12}
+      \field{urlyear}{2019}
+      \field{volume}{27}
+      \field{year}{2010}
+      \field{urldateera}{ce}
+      \field{pages}{335\bibrangedash 353}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1177/0265532210364406
+      \endverb
+      \verb{file}
+      \verb Snapshot:/home/tobias/Zotero/storage/46S8J9ZJ/eric.ed.gov.html:text/html
+      \endverb
+      \keyw{Computer Assisted Testing,Correlation,English (Second Language),Language Tests,Scores,Second Language Learning,Self Evaluation (Individuals),Validity,Writing Ability}
     \endentry
     \entry{noauthor_write_nodate}{misc}{}
       \field{sortinit}{W}
