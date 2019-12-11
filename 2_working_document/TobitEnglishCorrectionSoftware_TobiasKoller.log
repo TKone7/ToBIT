@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.11.21)  10 DEC 2019 16:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.12.10)  11 DEC 2019 15:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -778,6 +778,18 @@ LaTeX Info: Redefining \addtolength on input line 81.
 (/usr/share/texmf-dist/tex/latex/tools/xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
+(/usr/share/texmf-dist/tex/latex/dirtytalk/dirtytalk.sty
+Package: dirtytalk 2010/11/21 A package making "quoting" easier
+\c@dirtytalk@qdepth=\count353
+)
+(/usr/share/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count354
+\float@exts=\toks35
+\float@box=\box67
+\@float@everytoks=\toks36
+\@floatcapt=\box68
+)
 Package biblatex Info: Trying to load language 'english' -> 'english-apa'...
 Package biblatex Info: ... file 'english-apa.lbx' found.
 
@@ -811,18 +823,18 @@ Package csquotes Info: ... none found.
 (./TobitEnglishCorrectionSoftware_TobiasKoller.aux)
 \openout1 = `TobitEnglishCorrectionSoftware_TobiasKoller.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
@@ -833,22 +845,22 @@ Package biblatex Info: ... file 'TobitEnglishCorrectionSoftware_TobiasKoller.bb
 l' found.
 
 (./TobitEnglishCorrectionSoftware_TobiasKoller.bbl)
-Package biblatex Info: Reference section=0 on input line 35.
-Package biblatex Info: Reference segment=0 on input line 35.
+Package biblatex Info: Reference section=0 on input line 40.
+Package biblatex Info: Reference segment=0 on input line 40.
 
 (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count353
+\scratchcounter=\count355
 \scratchdimen=\dimen180
-\scratchbox=\box67
-\nofMPsegments=\count354
-\nofMParguments=\count355
-\everyMPshowfont=\toks35
-\MPscratchCnt=\count356
+\scratchbox=\box69
+\nofMPsegments=\count356
+\nofMParguments=\count357
+\everyMPshowfont=\toks37
+\MPscratchCnt=\count358
 \MPscratchDim=\dimen181
-\MPnumerator=\count357
-\makeMPintoPDFobject=\count358
-\everyMPtoPDFconversion=\toks36
+\MPnumerator=\count359
+\makeMPintoPDFobject=\count360
+\everyMPtoPDFconversion=\toks38
 ) (/usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -871,27 +883,27 @@ e
 ))
 ABD: EveryShipout initializing macros
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 46.
+(Font)              <7> on input line 51.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 46.
+(Font)              <5> on input line 51.
 LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 5
-2.
+7.
 
 (/usr/share/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <9> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 52.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 57.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 52.
+(Font)              <9> on input line 57.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 52.
+(Font)              <6> on input line 57.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 62.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 67.
 LaTeX Font Info:    Font shape `OMS/cmr/bx/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/b/n' tried instead on input line 69.
+(Font)              Font shape `OMS/cmsy/b/n' tried instead on input line 74.
 
-Overfull \hbox (10.07162pt too wide) in paragraph at lines 70--71
+Overfull \hbox (10.07162pt too wide) in paragraph at lines 75--76
 \OT1/cmr/m/n/10 ware, aims to im-prove the com-mu-ni-ca-tion of peo-ple. Max Ly
 tvyn, Alex Shevchenko,
  []
@@ -909,21 +921,51 @@ Underfull \vbox (badness 1365) has occurred while \output is active []
 
  [6]
 [7]
-Overfull \hbox (0.47763pt too wide) in paragraph at lines 148--149
+Overfull \hbox (0.47763pt too wide) in paragraph at lines 153--154
  \OT1/cmr/bx/n/10 Per-ceived Use-ful-ness[] \OT1/cmr/m/n/10 Ac-cord-ing to the 
 Tech-nol-ogy Ac-cep-tance Model (TAM),
  []
 
 [8] [9]
-Overfull \hbox (4.25197pt too wide) in paragraph at lines 170--171
+Overfull \hbox (4.25197pt too wide) in paragraph at lines 175--176
 []\OT1/cmr/m/n/10 Teachers ob-served dif-fer-ent re-ac-tions to the au-to-mated
  scor-ing fea-ture ([][]Grimes
  []
 
 [10] [11] [12] [13] [14]
+<images/view.png, id=87, 1337.74782pt x 539.01375pt>
+File: images/view.png Graphic file (type png)
+<use images/view.png>
+Package pdftex.def Info: images/view.png  used on input line 262.
+(pdftex.def)             Requested size: 347.12354pt x 139.86063pt.
+<images/state_1.png, id=88, 476.53032pt x 70.01157pt>
+File: images/state_1.png Graphic file (type png)
+<use images/state_1.png>
+Package pdftex.def Info: images/state_1.png  used on input line 270.
+(pdftex.def)             Requested size: 347.12354pt x 51.00224pt.
+ [15 <./images/view.png (PNG copy)>]
+<images/state_2.png, id=92, 471.26062pt x 177.66376pt>
+File: images/state_2.png Graphic file (type png)
+<use images/state_2.png>
+Package pdftex.def Info: images/state_2.png  used on input line 277.
+(pdftex.def)             Requested size: 347.12354pt x 130.86458pt.
+<images/state_3.png, id=93, 466.74374pt x 424.58624pt>
+File: images/state_3.png Graphic file (type png)
+<use images/state_3.png>
+Package pdftex.def Info: images/state_3.png  used on input line 284.
+(pdftex.def)             Requested size: 347.12354pt x 315.78265pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16 <./images/state_1.png (PNG copy)> <./images/state_2.png (PNG copy)>]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 299--304
+[] 
+ []
+
+[17 <./images/state_3.png (PNG copy)>] [18]
 LaTeX Font Info:    Font shape `OMS/cmr/m/it' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 241.
- [15] [16]
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 315.
+ [19]
 (./TobitEnglishCorrectionSoftware_TobiasKoller.aux)
 Package logreq Info: Writing requests to 'TobitEnglishCorrectionSoftware_Tobias
 Koller.run.xml'.
@@ -931,13 +973,13 @@ Koller.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21224 strings out of 492167
- 418361 string characters out of 6131557
- 898373 words of memory out of 5000000
- 25241 multiletter control sequences out of 15000+600000
+ 21345 strings out of 492167
+ 420246 string characters out of 6131557
+ 899059 words of memory out of 5000000
+ 25348 multiletter control sequences out of 15000+600000
  10443 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,7n,101p,1938b,3998s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,7n,101p,1938b,3996s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb></usr/share
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/publ
@@ -949,11 +991,11 @@ usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf
 s/cm/cmr9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on TobitEnglishCorrectionSoftware_TobiasKoller.pdf (16 pages, 20
-5118 bytes).
+Output written on TobitEnglishCorrectionSoftware_TobiasKoller.pdf (19 pages, 53
+0842 bytes).
 PDF statistics:
- 135 PDF objects out of 1000 (max. 8388607)
- 87 compressed objects within 1 object stream
+ 149 PDF objects out of 1000 (max. 8388607)
+ 94 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 109 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 129 words of extra memory for PDF output out of 10000 (max. 10000000)
 

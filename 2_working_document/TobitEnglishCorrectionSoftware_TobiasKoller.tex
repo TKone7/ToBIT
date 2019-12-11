@@ -11,6 +11,11 @@
 \usepackage{enumitem}
 \usepackage{todonotes}
 \usepackage{xspace}
+\usepackage{dirtytalk}
+%Manage graphics%
+\usepackage{graphicx}
+
+\usepackage{float}
 
 \let\OldTextregistered\textregistered
 \renewcommand{\textregistered}{\OldTextregistered\xspace}%
@@ -226,17 +231,126 @@ This kind of matching allows to cover numerous common errors with just one rule.
 
 
 \section{Self experiment}
-In a self-conducted experiment I want to find out first-hand how helpful the grammar correction of Grammarly\textregistered is. Grammarly\textregistered is designated for this experiment since it is easily accessible in its free version and they use advanced machine learning and deep learning techniques to improve their products \citep{noauthor_write_nodate}.
+In a self-conducted experiment I want to find out first-hand how helpful the grammar correction of Grammarly\textregistered is. Grammarly\textregistered is designated for this experiment since it is easily accessible in its free version and they use advanced machine learning and deep learning techniques to improve their products \citep{noauthor_write_nodate}. The experiment should answer the following questions:
+
+\begin{itemize}
+ \item How is the user experience when revising issues with Grammarly\textregistered web?
+ \item Is the feedback provided by Grammarly\textregistered understandable?
+ \item Does Grammarly\textregistered help build new knowledge that later can be applied?
+\end{itemize}
+
 
 \subsection{Method}
+In order to get a more objective result a survey paper of a fellow student is used, isntead of any product that was written by the author of this document. The paper chosen is in an early draft stage with almost no revision made. This should yield in a broad detection of different issues. The Grammarly\textregistered web based editor is used to conduct the test. The goals of the writing can be manually configured, the following settings have been made:
 
-\subsection{Analysis}
+\begin{itemize}
+ \item \textbf{Audience:} Expert
+ \item \textbf{Formality:} Formal
+ \item \textbf{Domain:} Normal (cannot be changed in the free version)
+ \item \textbf{Tone:} Analytical
+ \item \textbf{Intent:} Inform, Describe
+\end{itemize}
+
+Only a subsection (2 chapters) of a total length of 2667 words have been submitted for evaluation.
+
+\subsection{Result}
+Within less than a minute after pasting the content to the browser the calculation has already been finished. The sidebar on the right gives an overview of all the issues found. It prominently mentions that 68 alerts have been detected, but there are 90 more issues present which are only accessible in the premium version of Grammarly\textregistered. Those 68 alerts are subdivided into the two cateogries \textbf{Correctness} and \textbf{Clarity}. A progress bar also indicates the achievement of the two other cateogries \textbf{Engagement} and \textbf{Delivery}. If one wants to see how to improve and selects the category, they also mention to buy premium service first. Additionally an overall score of 48 (out of 100) is displayed.
+
+The revision screen of Grammarly\textregistered is devided in three columns. The first column (from left to right) shows the text that is being edited at the moment. Issues are highlighted by underlining the sections in a specific color. Each of the before mentioned issue categories is assigned to one color. The second column shows a feedback card for each issue. They appear on the same height as the is located in the first column. While scrolling through the page they are synchronised. The last column  is the sidebar that was already described before. 
+
+\begin{figure}[H]
+  \includegraphics[width=\linewidth]{images/view.png}
+  \caption{Revision view.}
+  \label{fig:revision}
+\end{figure}
+
+Each feedback card can be in three different states. In the overview all the cards are in the collapsed state to not use up much space. Only the text containing an issue and a quick recommendation is displayed.
+
+\begin{figure}[H]
+  \includegraphics[width=\linewidth]{images/state_1.png}
+  \caption{Collapsed state.}
+  \label{fig:state1}
+\end{figure}
+
+When clicking into the underlined text section or by clicking the feedback card directly, the card expands and gives a full sentence explanation of the issue. With a simple click on the greenn correction the proposed solution can be accepted or declined by clicking the bin button.
+\begin{figure}[H]
+  \includegraphics[width=\linewidth]{images/state_2.png}
+  \caption{Extended state.}
+  \label{fig:state2}
+\end{figure}
+
+If more information is still needed to make the final decision, a detailed explanation of the rule, including examples, can be displayed by clicking the three dots. 
+\begin{figure}[H]
+  \includegraphics[width=\linewidth]{images/state_3.png}
+  \caption{Detailed rule.}
+  \label{fig:state3}
+\end{figure}
+
+This three stages of information help to keep the overall view organised and still show maximum information when needed. They synchronous display of the cards with the floating text make it easy to associate them together. 
+
+\subsubsection{Revising suggestions}
+While going through the various feedback cards almost all of the 68 issues could be resolved as proposed by Grammarly\textregistered. The decision if the suggested change should be applied could be done fairly quick, since the context of the sentence was always visible and could be reread quickly. The issues were so obvious that the extended feedback card was always sufficient and no further grammatical explanation was required to detect the problem. There was only one card that reported an error where there was none. 
+
+The following issue is a false negative. The rule shown does not apply to the situation. The word ``similarity'' belongs to the term ``similarity indicator'' which is not an uncountable noun.
+
+\say{( . . . ) it always requires the derivation of a similarity or dissimilarity indicator ( . . . )}
+
+\noindent\fbox{%
+    \parbox{\textwidth}{%
+        \textbf{Feedback:} The indefinite article, \textbf{a}, may be redundant when used with the uncountable noun \textbf{similarity} in your sentence. Consider removing it.
+    }%
+}
+
+After all issues have been handled, by either accepting or ignoring the suggestion the view now shows how many additional writing issues are present but can only be reviewed with a premium account.
+
+\begin{figure}[H]
+  \includegraphics[width=0.8\linewidth]{images/premium.png}
+  \caption{Further issues.}
+  \label{fig:premium}
+\end{figure}
+
+\subsection{Discussion}
+\subsubsection{Experience}
+The whole revision process was smooth and the user interface was intuitive and could be managed without further documentation or explanation. Since most of the corrections could be applied as recommended this was done with the simplicity of a click. No further typing with the keyboard had to be done. The synchronous scrolling of the actual text with the cards helped immensly to keep the overview.
+
+The progress bars in the sidebar always showed the current state of the text. While more issues were resolved those bars started to present better results which motivated even more to fix as many issues as possible. Visual components are cleverly utlised to boost the users motivation.
+
+The user gets constantly reminded of plenty issues still present but not marked because the lack of a premium account. While also this is a very smartly placed advertisement for the payed service, it can daunt the author when he cannot make use of the full scope of improvements available.
+
+\subsubsection{Feedback understandable}
+All the issues presented in the free version of Grammarly\textregistered were easily understandable. I most cases the extended feedback card was sufficient to fully recognise the problem at hand. If I had doubt about the appropriateness of the suggestion the detailed rule helped to clarify. Specially the correct and incorrect examples made it clear how to apply a specific rule. The terminology used was understandable and did not lead to any confusion.
+
+\subsubsection{Building new knowledge}
+Specially with repeating issues that needed to be solved in the same manner over and over again, a learning effect could be detected. The iterative revisioning of the same error made this rule stick to the mind. In the further writing process the author remebers this and can think of alternative ways to construct the phrase. 
+
+However, most of the errors seemed to be spelling or typing errors and inadvertent mistakes. Surely, Grammarly\textregistered helps to detect them and suggests corrections but it does not help avoiding them in the future. The author is usually aware of those 
+
+The most potential for building new knowledge would have been in the areas of sentence structure, development and argumentation. However, those enahncements are not available in the free version and therefore the learning effect of the author is very limited.
 
 \section{Discussion and recommendation}
+\subsection{Overview of studies}
+The automated evaluation of english texts 
+pro
+- quick and instant feedback
+- unbiased and treating students more fairly
+- provide reason for correction and facilitate learning
+
+contra
+- small range of issues 
+- bad at evaluating coherence and content development, organisation
+- cannot address issues / questions of the student
+
+Does not provide the same value as face-to-face coaching (dembsey_closing_2017)
 
 
+\subsection{Potential benefits to FHNW students}
 
-\section{Bibliography used}
+\subsection{Recommendation to FHNW}
+- First in depth evaluation of Criterion and myaccess 
+- decide to get those
+- develop themselves
+
+\section{Bibliography}
 
 \printbibliography
 \end{document}
