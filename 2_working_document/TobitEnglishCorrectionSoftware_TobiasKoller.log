@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.12.10)  12 DEC 2019 07:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.12.10)  12 DEC 2019 09:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -907,84 +907,100 @@ Underfull \vbox (badness 6461) has occurred while \output is active []
 
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4]
-Underfull \vbox (badness 2158) has occurred while \output is active []
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
+Overfull \hbox (2.11313pt too wide) in paragraph at lines 116--117
+\OT1/cmr/m/n/10 years, sev-eral re-searchers at-tempted to mea-sure the im-pact
+ of us-ing Grammarly[]
+ []
 
- [5]
-Underfull \vbox (badness 1365) has occurred while \output is active []
+[4] [5] [6]
+Underfull \vbox (badness 3536) has occurred while \output is active []
 
- [6]
-[7]
-Overfull \hbox (0.47763pt too wide) in paragraph at lines 153--154
+ [7]
+Overfull \hbox (0.47763pt too wide) in paragraph at lines 151--152
  \OT1/cmr/bx/n/10 Per-ceived Use-ful-ness[] \OT1/cmr/m/n/10 Ac-cord-ing to the 
 Tech-nol-ogy Ac-cep-tance Model (TAM),
  []
 
 [8] [9]
-Overfull \hbox (4.25197pt too wide) in paragraph at lines 175--176
+Overfull \hbox (4.25197pt too wide) in paragraph at lines 173--174
 []\OT1/cmr/m/n/10 Teachers ob-served dif-fer-ent re-ac-tions to the au-to-mated
  scor-ing fea-ture ([][]Grimes
  []
 
-[10] [11] [12] [13] [14]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10]
+Underfull \vbox (badness 6412) has occurred while \output is active []
+
+ [11]
+[12] [13] [14]
 <images/view.png, id=87, 1337.74782pt x 539.01375pt>
 File: images/view.png Graphic file (type png)
 <use images/view.png>
-Package pdftex.def Info: images/view.png  used on input line 262.
+Package pdftex.def Info: images/view.png  used on input line 260.
 (pdftex.def)             Requested size: 347.12354pt x 139.86063pt.
-<images/state_1.png, id=88, 476.53032pt x 70.01157pt>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15]
+<images/state_1.png, id=91, 476.53032pt x 70.01157pt>
 File: images/state_1.png Graphic file (type png)
 <use images/state_1.png>
-Package pdftex.def Info: images/state_1.png  used on input line 270.
+Package pdftex.def Info: images/state_1.png  used on input line 268.
 (pdftex.def)             Requested size: 347.12354pt x 51.00224pt.
- [15 <./images/view.png (PNG copy)>]
 <images/state_2.png, id=92, 471.26062pt x 177.66376pt>
 File: images/state_2.png Graphic file (type png)
 <use images/state_2.png>
-Package pdftex.def Info: images/state_2.png  used on input line 277.
+Package pdftex.def Info: images/state_2.png  used on input line 275.
 (pdftex.def)             Requested size: 347.12354pt x 130.86458pt.
-<images/state_3.png, id=93, 466.74374pt x 424.58624pt>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16 <./images/view.png (PNG copy)> <./images/state_1.png (PNG copy)>]
+<images/state_3.png, id=96, 466.74374pt x 424.58624pt>
 File: images/state_3.png Graphic file (type png)
 <use images/state_3.png>
-Package pdftex.def Info: images/state_3.png  used on input line 284.
+Package pdftex.def Info: images/state_3.png  used on input line 282.
 (pdftex.def)             Requested size: 347.12354pt x 315.78265pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [16 <./images/state_1.png (PNG copy)> <./images/state_2.png (PNG copy)>]
+ [17 <./images/state_2.png (PNG copy)>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [17 <./images/state_3.png (PNG copy)>]
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 298--303
+ [18 <./images/state_3.png (PNG copy)>]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 296--301
 [] 
  []
 
-<images/premium.png, id=100, 437.38406pt x 504.38437pt>
+<images/premium.png, id=103, 437.38406pt x 504.38437pt>
 File: images/premium.png Graphic file (type png)
 <use images/premium.png>
-Package pdftex.def Info: images/premium.png  used on input line 307.
+Package pdftex.def Info: images/premium.png  used on input line 305.
 (pdftex.def)             Requested size: 277.69987pt x 320.24203pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [18 <./images/premium.png (PNG copy)>]
+ [19 <./images/premium.png (PNG copy)>]
 Underfull \vbox (badness 1430) has occurred while \output is active []
 
- [19]
-[20]
+ [20]
+[21]
 LaTeX Font Info:    Font shape `OMS/cmr/m/it' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 356.
- [21] [22] (./TobitEnglishCorrectionSoftware_TobiasKoller.aux)
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 355.
+ [22] [23] (./TobitEnglishCorrectionSoftware_TobiasKoller.aux)
 Package logreq Info: Writing requests to 'TobitEnglishCorrectionSoftware_Tobias
 Koller.run.xml'.
 \openout1 = `TobitEnglishCorrectionSoftware_TobiasKoller.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21354 strings out of 492167
- 420412 string characters out of 6131557
- 899072 words of memory out of 5000000
- 25356 multiletter control sequences out of 15000+600000
+ 21357 strings out of 492167
+ 420445 string characters out of 6131557
+ 899094 words of memory out of 5000000
+ 25359 multiletter control sequences out of 15000+600000
  10443 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,7n,101p,1938b,3996s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -999,11 +1015,11 @@ usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf
 s/cm/cmr9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on TobitEnglishCorrectionSoftware_TobiasKoller.pdf (22 pages, 59
-4742 bytes).
+Output written on TobitEnglishCorrectionSoftware_TobiasKoller.pdf (23 pages, 59
+4589 bytes).
 PDF statistics:
- 159 PDF objects out of 1000 (max. 8388607)
- 100 compressed objects within 1 object stream
+ 163 PDF objects out of 1000 (max. 8388607)
+ 102 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  134 words of extra memory for PDF output out of 10000 (max. 10000000)
 
