@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.12.10)  12 DEC 2019 09:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.12.10)  14 DEC 2019 08:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -987,20 +987,25 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 1430) has occurred while \output is active []
 
  [20]
-[21]
+Overfull \hbox (4.32152pt too wide) in paragraph at lines 337--338
+[]\OT1/cmr/m/n/10 Users of au-to-mated gram-mar cor-rec-tion soft-ware and ad-m
+in-is-tra-tors at schools
+ []
+
+[21] [22]
 LaTeX Font Info:    Font shape `OMS/cmr/m/it' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 355.
- [22] [23] (./TobitEnglishCorrectionSoftware_TobiasKoller.aux)
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 357.
+ [23] [24] (./TobitEnglishCorrectionSoftware_TobiasKoller.aux)
 Package logreq Info: Writing requests to 'TobitEnglishCorrectionSoftware_Tobias
 Koller.run.xml'.
 \openout1 = `TobitEnglishCorrectionSoftware_TobiasKoller.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21357 strings out of 492167
- 420445 string characters out of 6131557
- 899094 words of memory out of 5000000
- 25359 multiletter control sequences out of 15000+600000
+ 21366 strings out of 492167
+ 420665 string characters out of 6131557
+ 899223 words of memory out of 5000000
+ 25368 multiletter control sequences out of 15000+600000
  10443 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,7n,101p,1938b,3996s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1015,11 +1020,11 @@ usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf
 s/cm/cmr9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on TobitEnglishCorrectionSoftware_TobiasKoller.pdf (23 pages, 59
-4589 bytes).
+Output written on TobitEnglishCorrectionSoftware_TobiasKoller.pdf (24 pages, 59
+8012 bytes).
 PDF statistics:
- 163 PDF objects out of 1000 (max. 8388607)
- 102 compressed objects within 2 object streams
+ 166 PDF objects out of 1000 (max. 8388607)
+ 104 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  134 words of extra memory for PDF output out of 10000 (max. 10000000)
 
