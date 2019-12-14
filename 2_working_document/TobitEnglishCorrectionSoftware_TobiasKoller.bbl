@@ -246,6 +246,26 @@
       \verb https://criterion.ets.org/criterion/default.aspx
       \endverb
     \endentry
+    \entry{noauthor_fhnw_nodate}{misc}{}
+      \field{sortinit}{F}
+      \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{title}{{FHNW}}
+      \field{urlday}{12}
+      \field{urlmonth}{12}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb University of Applied Sciences and Arts Northwestern Switzerland | FHNW:/home/tobias/Zotero/storage/S2GZXT6F/en.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.fhnw.ch/en
+      \endverb
+      \verb{url}
+      \verb https://www.fhnw.ch/en
+      \endverb
+    \endentry
     \entry{gamon_using_2009}{article}{}
       \name{author}{7}{}{%
         {{un=0,uniquepart=base,hash=8dfb40b4f3b7bcdec9fb5665b055be85}{%
@@ -322,6 +342,27 @@
       \endverb
       \verb{url}
       \verb www.jstor.org/stable/calicojournal.26.3.491
+      \endverb
+    \endentry
+    \entry{noauthor_grammarly_nodate}{misc}{}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Grammarly makes sure everything you type is easy to read, effective, and mistake-free. Try it today:}
+      \field{title}{Grammarly}
+      \field{urlday}{27}
+      \field{urlmonth}{11}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/tobias/Zotero/storage/D36J3T9Y/www.grammarly.com.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.grammarly.com/
+      \endverb
+      \verb{url}
+      \verb https://www.grammarly.com/
       \endverb
     \endentry
     \entry{grimes_utility_2010}{article}{}
@@ -655,26 +696,6 @@
       \endverb
       \keyw{grammarly software,passive structure,software feedback,teacher's feedback}
     \endentry
-    \entry{noauthor_university_nodate}{misc}{}
-      \field{sortinit}{U}
-      \field{sortinithash}{77a6935510e008adcf5b555e7b4f0711}
-      \field{labeldatesource}{nodate}
-      \field{labeltitlesource}{title}
-      \field{title}{University of {Applied} {Sciences} and {Arts} {Northwestern} {Switzerland} {|} {FHNW}}
-      \field{urlday}{12}
-      \field{urlmonth}{12}
-      \field{urlyear}{2019}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb University of Applied Sciences and Arts Northwestern Switzerland | FHNW:/home/tobias/Zotero/storage/S2GZXT6F/en.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://www.fhnw.ch/en
-      \endverb
-      \verb{url}
-      \verb https://www.fhnw.ch/en
-      \endverb
-    \endentry
     \entry{vandeventer_creating_2001}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=18fa9ec03927dfcc01d0c66889b84dac}{%
@@ -862,69 +883,6 @@
       \endverb
       \keyw{Assessment,Learner feedback,Pedagogy,Technology,Writing}
     \endentry
-    \entry{wang_exploring_2013}{article}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=c8130c5aeb17bbc1bbc6ec53b8268637}{%
-           family={Wang},
-           familyi={W\bibinitperiod},
-           given={Ying-Jian},
-           giveni={Y\bibinithyphendelim J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c3b0a5c4d9d0c0b4e8d8b4f4cd3dfa9b}{%
-           family={Shang},
-           familyi={S\bibinitperiod},
-           given={Hui-Fang},
-           giveni={H\bibinithyphendelim F\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=f97f11eb3a0c42ba084f6cc03d0c934c}{%
-           family={Briody},
-           familyi={B\bibinitperiod},
-           given={Paul},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{8af96243b8b44da6586fa29ce35caef8}
-      \strng{fullhash}{b3d02723afd4c8e53e3c768bb6f46543}
-      \strng{bibnamehash}{b3d02723afd4c8e53e3c768bb6f46543}
-      \strng{authorbibnamehash}{b3d02723afd4c8e53e3c768bb6f46543}
-      \strng{authornamehash}{8af96243b8b44da6586fa29ce35caef8}
-      \strng{authorfullhash}{b3d02723afd4c8e53e3c768bb6f46543}
-      \field{sortinit}{W}
-      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{A period of expanding globalization has emphasized the significant role played by the English language in both communications and information sourcing. In such an environment, it is understandable that many have sought to enhance available writing skills and the assessment of said writing skills. In recent decades, automated writing evaluation (AWE) has been applied with significant frequency to the evaluation and assessment of English writing performance in EFL environments. The purpose of this study is to examine the impact and effect of using AWE on EFL students' writing. In this study, the subjects were 57 EFL freshmen from the Department of Applied English at one university in the south of Taiwan. Both quantitative and qualitative research methods were used to conduct a quasi-experimental research by employing a t-test technique and a semi-structured interview technique, and the nonequivalent groups' pre-test/post-test control and comparison group design were applied to explore the overall effect of using AWE on the improvement of student writing in terms of accuracy, learner autonomy, and interaction. The research results reveal a significant difference between the experimental group and the control group in terms of writing accuracy following the adoption of AWE. Regarding the overall effect and the exploration of students' perceptions toward their usage of the AWE software, it shows that students who used AWE display obvious writing enhancement in terms of writing accuracy and learner autonomy awareness. The pedagogical implications of fully understanding students' usage of AWE in the writing process in order to improve EFL learners' writing performance are fully discussed.}
-      \field{annotation}{bad title}
-      \field{issn}{0958-8221}
-      \field{journaltitle}{Computer Assisted Language Learning}
-      \field{month}{7}
-      \field{number}{3}
-      \field{title}{Exploring the impact of using automated writing evaluation in {English} as a foreign language university students' writing}
-      \field{urlday}{14}
-      \field{urlmonth}{10}
-      \field{urlyear}{2019}
-      \field{volume}{26}
-      \field{year}{2013}
-      \field{urldateera}{ce}
-      \field{pages}{234\bibrangedash 257}
-      \range{pages}{24}
-      \verb{doi}
-      \verb 10.1080/09588221.2012.655300
-      \endverb
-      \verb{file}
-      \verb Full Text:/home/tobias/Zotero/storage/GYIYLKLM/Wang et al. - 2013 - Exploring the impact of using automated writing ev.pdf:application/pdf;Snapshot:/home/tobias/Zotero/storage/PTR4L4RR/09588221.2012.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1080/09588221.2012.655300
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1080/09588221.2012.655300
-      \endverb
-      \keyw{accuracy,automated writing evaluation (AWE),EFL writing,interaction,learner autonomy}
-    \endentry
     \entry{warschauer_automated_2006}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=cbaa894ba874a6f04587306c2e11c3ba}{%
@@ -1031,27 +989,6 @@
       \verb Snapshot:/home/tobias/Zotero/storage/46S8J9ZJ/eric.ed.gov.html:text/html
       \endverb
       \keyw{Correlation,Computer Assisted Testing,English (Second Language),Language Tests,Scores,Second Language Learning,Self Evaluation (Individuals),Validity,Writing Ability}
-    \endentry
-    \entry{noauthor_write_nodate}{misc}{}
-      \field{sortinit}{W}
-      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
-      \field{labeldatesource}{nodate}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Grammarly makes sure everything you type is easy to read, effective, and mistake-free. Try it today:}
-      \field{title}{Write your best with {Grammarly}.}
-      \field{urlday}{27}
-      \field{urlmonth}{11}
-      \field{urlyear}{2019}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb Snapshot:/home/tobias/Zotero/storage/D36J3T9Y/www.grammarly.com.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://www.grammarly.com/
-      \endverb
-      \verb{url}
-      \verb https://www.grammarly.com/
-      \endverb
     \endentry
   \enddatalist
 \endrefsection

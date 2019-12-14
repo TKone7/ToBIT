@@ -14,8 +14,7 @@
 	pages = {63--100},
 	annote = {Closing the Grammarly® Gaps: A Study of Claims and Feedback from an Online Grammar Program},
 	annote = {Tests if the gaps could be closed.
-Compares result with feedback of 10 real consultants.},
-	file = {Dembsey - 2017 - Closing the Grammarly® Gaps A Study of Claims and.pdf:/home/tobias/Zotero/storage/K8CBJF4P/Dembsey - 2017 - Closing the Grammarly® Gaps A Study of Claims and.pdf:application/pdf}
+Compares result with feedback of 10 real consultants.}
 }
 
 @patent{hoover_united_2015,
@@ -105,8 +104,6 @@ Section with commercial offerings},
 	year = {2011},
 	keywords = {Assessment, Learner feedback, Pedagogy, Technology, Writing},
 	pages = {97--111},
-	annote = {mentions accuracy on e-rater
- },
 	file = {Full Text:/home/tobias/Zotero/storage/E2W48C4U/Vojak et al. - 2011 - New Spaces and Old Places An Analysis of Writing .pdf:application/pdf;ScienceDirect Snapshot:/home/tobias/Zotero/storage/KKK5ZYV6/S8755461511000259.html:text/html}
 }
 
@@ -427,8 +424,6 @@ also reviews the acceptance by students},
 	year = {2016},
 	keywords = {grammarly software, passive structure, software feedback, teacher's feedback},
 	pages = {1884--1894},
-	annote = {quite useless
- },
 	file = {Full Text PDF:/home/tobias/Zotero/storage/VU3LGRMN/Qassemzadeh and Soleimani - 2016 - The Impact of Feedback Provision by Grammarly Soft.pdf:application/pdf;Snapshot:/home/tobias/Zotero/storage/8ABS9QQX/tpls060918841894.html:text/html}
 }
 
@@ -476,195 +471,4 @@ also reviews the acceptance by students},
 	abstract = {Grammarly makes sure everything you type is easy to read, effective, and mistake-free. Try it today:},
 	urldate = {2019-11-27},
 	file = {Snapshot:/home/tobias/Zotero/storage/D36J3T9Y/www.grammarly.com.html:text/html}
-}
-
-@article{davis_user_1989,
-	title = {User {Acceptance} of {Computer} {Technology}: {A} {Comparison} of {Two} {Theoretical} {Models}},
-	volume = {35},
-	issn = {0025-1909},
-	shorttitle = {User {Acceptance} of {Computer} {Technology}},
-	url = {https://pubsonline.informs.org/doi/abs/10.1287/mnsc.35.8.982},
-	doi = {10.1287/mnsc.35.8.982},
-	abstract = {Computer systems cannot improve organizational performance if they aren't used. Unfortunately, resistance to end-user systems by managers and professionals is a widespread problem. To better predict, explain, and increase user acceptance, we need to better understand why people accept or reject computers. This research addresses the ability to predict peoples' computer acceptance from a measure of their intentions, and the ability to explain their intentions in terms of their attitudes, subjective norms, perceived usefulness, perceived ease of use, and related variables. In a longitudinal study of 107 users, intentions to use a specific system, measured after a one-hour introduction to the system, were correlated 0.35 with system use 14 weeks later. The intention-usage correlation was 0.63 at the end of this time period. Perceived usefulness strongly influenced peoples' intentions, explaining more than half of the variance in intentions at the end of 14 weeks. Perceived ease of use had a small but significant effect on intentions as well, although this effect subsided over time. Attitudes only partially mediated the effects of these beliefs on intentions. Subjective norms had no effect on intentions. These results suggest the possibility of simple but powerful models of the determinants of user acceptance, with practical value for evaluating systems and guiding managerial interventions aimed at reducing the problem of underutilized computer technology.},
-	number = {8},
-	urldate = {2019-12-05},
-	journal = {Management Science},
-	author = {Davis, Fred D. and Bagozzi, Richard P. and Warshaw, Paul R.},
-	month = aug,
-	year = {1989},
-	pages = {982--1003}
-}
-
-@article{zhang_chengqing_2014,
-	title = {Chengqing {Zong}: {Statistical} natural language processing (second edition)},
-	volume = {28},
-	issn = {1573-0573},
-	url = {https://doi.org/10.1007/s10590-014-9150-3},
-	doi = {10.1007/s10590-014-9150-3},
-	number = {2},
-	journal = {Machine Translation},
-	author = {Zhang, Xiaojun},
-	month = oct,
-	year = {2014},
-	pages = {155--158},
-	file = {Full Text:/home/tobias/Zotero/storage/7Q8Z7GV9/Zhang - 2014 - Chengqing Zong Statistical natural language proce.pdf:application/pdf}
-}
-
-@article{macleod_large_nodate,
-	title = {A {Large} {Syntactic} {Dictionary} for {Natural} {Language} {Processing}},
-	abstract = {This article is a detailed account of COMLEX Syntax, an on-line syntactic dictionary of English, developed by the Proteus Project at New York University under the auspices of the Linguistics Data Consortium. This lexicon was intended to be used for a variety of tasks in natural language processing by computer and as such has very detailed classes with a large number of syntactic features and complements for the major parts of speech and is, as far as possible, theory neutral. The dictionary was entered by hand with reference to hard copy dictionaries, an on-line concordance and native speakers’ intuition. Thus it is without prior encumbrances and can be used for both pure research and commercial purposes.},
-	language = {en},
-	author = {Macleod, Catherine and Grishman, Ralph and Meyers, Adam},
-	pages = {23},
-	file = {Macleod et al. - A Large Syntactic Dictionary for Natural Language .pdf:/home/tobias/Zotero/storage/7KC2VZWA/Macleod et al. - A Large Syntactic Dictionary for Natural Language .pdf:application/pdf}
-}
-
-@article{vandeventer_creating_2001,
-	title = {Creating a grammar checker for {CALL} by constraint relaxation: a feasibility study},
-	volume = {13},
-	issn = {1474-0109, 0958-3440},
-	shorttitle = {Creating a grammar checker for {CALL} by constraint relaxation},
-	url = {https://www.cambridge.org/core/journals/recall/article/creating-a-grammar-checker-for-call-by-constraint-relaxation-a-feasibility-study/11979C1FE2584B9B8815162CE3E127AE},
-	doi = {10.1017/S095834400100101X},
-	abstract = {Intelligent feedback on learners’ full written
-sentence productions requires the use of Natural Language Processing (NLP)
-tools and, in particular, of a diagnosis system. Most syntactic parsers, on which
-grammar checkers are based, are designed to parse grammatical sentences and/or
-native speaker productions. They are therefore not necessarily suitable for
-language learners. In this paper, we concentrate on the transformation of a
-French syntactic parser into a grammar checker geared towards intermediate to
-advanced learners of French. Several techniques are envisaged to allow the
-parser to handle ill-formed input, including constraint relaxation. By the
-very nature of this technique, parsers can generate complete analyses for
-ungrammatical sentences. Proper labelling of where the analysis has been able to
-proceed thanks to a specific constraint relaxation forms the basis of the error
-diagnosis. Parsers with relaxed constraints tend to produce more complete,
-although incorrect, analyses for grammatical sentences, and several complete
-analyses for ungrammatical sentences. This increased number of analyses per
-sentence has one major drawback: it slows down the system and requires more
-memory. An experiment was conducted to observe the behaviour of our parser in the
-context of constraint relaxation. Three specific constraints, agreement in number,
-gender, and person, were selected and relaxed in different combinations. A learner
-corpus was parsed with each combination. The evolution of the number of correct
-diagnoses and of parsing speed, among other factors, were monitored. We then
-evaluated, by comparing the results, whether large scale constraint relaxation is
-a viable option to transform our syntactic parser into an efficient grammar
-checker for CALL.},
-	language = {en},
-	number = {1},
-	urldate = {2019-12-09},
-	journal = {ReCALL},
-	author = {Vandeventer, Anne},
-	month = may,
-	year = {2001},
-	pages = {110--120},
-	file = {Full Text PDF:/home/tobias/Zotero/storage/GS9UFTJM/Vandeventer - 2001 - Creating a grammar checker for CALL by constraint .pdf:application/pdf;Snapshot:/home/tobias/Zotero/storage/LHLNJGDA/11979C1FE2584B9B8815162CE3E127AE.html:text/html}
-}
-
-@misc{noauthor_pos_2018,
-	title = {{POS} tags and part-of-speech tagging {\textbar} {Sketch} {Engine}},
-	url = {https://www.sketchengine.eu/pos-tags/},
-	abstract = {A POS tag (part-of-speech tag) is a label showing the part of speech of each token (word) in a text corpus. POS tags are assigned automatically by a POS tagger.},
-	language = {en-GB},
-	urldate = {2019-12-09},
-	month = mar,
-	year = {2018},
-	file = {Snapshot:/home/tobias/Zotero/storage/SLF3VEA7/pos-tags.html:text/html}
-}
-
-@article{gamon_using_2009,
-	title = {Using {Statistical} {Techniques} and {Web} {Search} to {Correct} {ESL} {Errors}},
-	volume = {26},
-	issn = {0742-7778},
-	url = {www.jstor.org/stable/calicojournal.26.3.491},
-	abstract = {Abstract In this paper we present a system for automatic correction of errors made by learners of English. The system has two novel aspects. First, machine-learned classifiers trained on large amounts of native data and a very large language model are combined to optimize the precision of suggested corrections. Second, the user can access real-life web examples of both their original formulation and the suggested correction. We discuss technical details of the system, including the choice of classifier, feature sets, and language model. We also present results from an evaluation of the system on a set of corpora. We perform an automatic evaluation on native English data and a detailed manual analysis of performance on three corpora of nonnative writing: the Chinese Learners' of English Corpus (CLEC) and two corpora of web and email writing.},
-	number = {3},
-	urldate = {2019-12-09},
-	journal = {CALICO Journal},
-	author = {Gamon, Michael and Leacock, Claudia and Brockett, Chris and Dolan, William B. and Gao, Jianfeng and Belenko, Dmitriy and Klementiev, Alexandre},
-	year = {2009},
-	pages = {491--511}
-}
-
-@patent{kantrowitz_method_2003,
-	title = {Method for rule-based correction of spelling and grammar errors},
-	url = {https://patents.google.com/patent/US6618697B1/en},
-	nationality = {US},
-	assignee = {Justsystem Corp},
-	number = {US6618697B1},
-	urldate = {2019-12-09},
-	author = {Kantrowitz, Mark and Baluja, Shumeet},
-	month = sep,
-	year = {2003},
-	keywords = {errors, rules, spelling, word, words},
-	file = {Fulltext PDF:/home/tobias/Zotero/storage/AL9KC6WR/Kantrowitz and Baluja - 2003 - Method for rule-based correction of spelling and g.pdf:application/pdf}
-}
-
-@article{lim_review_2012,
-	title = {Review of {Criterion} for {English} {Language} {Learning}},
-	volume = {16},
-	number = {2},
-	journal = {Language Learning \& Technology},
-	author = {Lim, Hyojung and Kahng, Jimin},
-	year = {2012},
-	pages = {38--45},
-	annote = {must read
- },
-	file = {Full Text:/home/tobias/Zotero/storage/ACQNUBR5/Lim and Kahng - 2012 - Review of Criterion for English Language Learning.pdf:application/pdf}
-}
-
-@misc{noauthor_ets_nodate,
-	title = {{ETS} {Criterion} writing evaluation service},
-	url = {https://criterion.ets.org/criterion/default.aspx},
-	urldate = {2019-12-10},
-	file = {ETS Criterion writing evaluation service:/home/tobias/Zotero/storage/NXIRAYQP/default.html:text/html}
-}
-
-@misc{noauthor_about_nodate,
-	title = {About the e-rater {Scoring} {Engine}},
-	url = {https://www.ets.org/erater/about},
-	urldate = {2019-12-10},
-	file = {About the e-rater Scoring Engine:/home/tobias/Zotero/storage/5JCCTC3K/about.html:text/html}
-}
-
-@article{llosa_comparability_2019,
-	title = {Comparability of students’ writing performance on {TOEFL} {iBT} and in required university writing courses},
-	volume = {36},
-	issn = {0265-5322},
-	url = {https://doi.org/10.1177/0265532218763456},
-	doi = {10.1177/0265532218763456},
-	abstract = {Investigating the comparability of students’ performance on TOEFL writing tasks and actual academic writing tasks is essential to provide backing for the extrapolation inference in the TOEFL validity argument (Chapelle, Enright, \& Jamieson, 2008). This study compared 103 international non-native-English-speaking undergraduate students’ performance on two TOEFL iBT® writing tasks with their performance in required writing courses in US universities as measured by instructors’ ratings of student proficiency, instructor-assigned grades on two course assignments, and five dimensions of writing quality of the first and final drafts of those course assignments: grammatical, cohesive, rhetorical, sociopragmatic, and content control. Also, the quality of the writing on the TOEFL writing tasks was compared with the first and final drafts of responses to written course assignments using a common analytic rubric along the five dimensions. Correlations of scores from TOEFL tasks (Independent, Integrated, and the total Writing section) with instructor ratings of students’ overall English proficiency and writing proficiency were moderate and significant. However, only scores on the Integrated task and the Writing section were correlated with instructor-assigned grades on course assignments. Correlations between scores on TOEFL tasks and all dimensions of writing quality were positive and significant, though of lower magnitude for final drafts than for first drafts. The TOEFL scores were most highly correlated with cohesive and grammatical control and had the lowest correlations with rhetorical organization. The quality of the writing on the TOEFL tasks was comparable to that of the first drafts of course assignment but not the final drafts. These findings provide backing for the extrapolation inference, suggesting that the construct of academic writing proficiency as assessed by TOEFL “accounts for the quality of linguistic performance in English-medium institutions of higher education” (Chapelle, Enright, \& Jamieson, 2008, p. 21).},
-	language = {en},
-	number = {2},
-	urldate = {2019-12-10},
-	journal = {Language Testing},
-	author = {Llosa, Lorena and Malone, Margaret E.},
-	month = apr,
-	year = {2019},
-	pages = {235--263}
-}
-
-@article{weigle_validation_2010,
-	title = {Validation of {Automated} {Scores} of {TOEFL} {iBT} {Tasks} against {Non}-{Test} {Indicators} of {Writing} {Ability}},
-	volume = {27},
-	issn = {0265-5322},
-	doi = {10.1177/0265532210364406},
-	abstract = {Automated scoring has the potential to dramatically reduce the time and costs associated with the assessment of complex skills such as writing, but its use must be validated against a variety of criteria for it to be accepted by test users and stakeholders. This study approaches validity by comparing human and automated scores on responses to TOEFL[R] iBT Independent writing tasks with several non-test indicators of writing ability: student self-assessment, instructor assessment, and independent ratings of non-test writing samples. Automated scores were produced using "e-rater"[R], developed by Educational Testing Service (ETS). Correlations between both human and "e-rater" scores and non-test indicators were moderate but consistent, providing criterion-related validity evidence for the use of "e-rater" along with human scores. The implications of the findings for the validity of automated scores are discussed. (Contains 10 tables and 2 notes.)},
-	language = {en},
-	number = {3},
-	urldate = {2019-12-10},
-	journal = {Language Testing},
-	author = {Weigle, Sara Cushing},
-	month = jul,
-	year = {2010},
-	keywords = {Correlation, Computer Assisted Testing, English (Second Language), Language Tests, Scores, Second Language Learning, Self Evaluation (Individuals), Validity, Writing Ability},
-	pages = {335--353},
-	file = {Snapshot:/home/tobias/Zotero/storage/46S8J9ZJ/eric.ed.gov.html:text/html}
-}
-
-@misc{noauthor_fhnw_nodate,
-	title = {{FHNW}},
-	url = {https://www.fhnw.ch/en},
-	urldate = {2019-12-12},
-	file = {University of Applied Sciences and Arts Northwestern Switzerland | FHNW:/home/tobias/Zotero/storage/S2GZXT6F/en.html:text/html}
 }

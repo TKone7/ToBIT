@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.12.10)  14 DEC 2019 08:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.12.10)  14 DEC 2019 15:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -79,17 +79,17 @@ Package: multicol 2019/03/01 v1.8w multicolumn formatting (FMi)
 Package: aliascnt 2018/09/07 v1.5 Alias counters (HO)
 )
 \c@chapter=\count98
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 362.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 363.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 364.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 365.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 366.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 367.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 368.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 369.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 370.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 371.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 372.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 363.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 364.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 365.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 366.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 367.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 368.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 369.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 370.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 371.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 372.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 373.
 \tocchpnum=\dimen112
 \tocsecnum=\dimen113
 \tocsectotal=\dimen114
@@ -823,18 +823,18 @@ Package csquotes Info: ... none found.
 (./TobitEnglishCorrectionSoftware_TobiasKoller.aux)
 \openout1 = `TobitEnglishCorrectionSoftware_TobiasKoller.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
@@ -845,8 +845,8 @@ Package biblatex Info: ... file 'TobitEnglishCorrectionSoftware_TobiasKoller.bb
 l' found.
 
 (./TobitEnglishCorrectionSoftware_TobiasKoller.bbl)
-Package biblatex Info: Reference section=0 on input line 40.
-Package biblatex Info: Reference segment=0 on input line 40.
+Package biblatex Info: Reference section=0 on input line 44.
+Package biblatex Info: Reference segment=0 on input line 44.
 
 (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -883,47 +883,52 @@ e
 ))
 ABD: EveryShipout initializing macros
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 51.
+(Font)              <7> on input line 55.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 51.
-LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 5
-7.
+(Font)              <5> on input line 55.
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 6
+1.
 
 (/usr/share/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <9> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 57.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 61.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 57.
+(Font)              <9> on input line 61.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 57.
+(Font)              <6> on input line 61.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 67.
-LaTeX Font Info:    Font shape `OMS/cmr/bx/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/b/n' tried instead on input line 74.
-
-Underfull \vbox (badness 6461) has occurred while \output is active []
-
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 71.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
-Overfull \hbox (2.11313pt too wide) in paragraph at lines 116--117
-\OT1/cmr/m/n/10 years, sev-eral re-searchers at-tempted to mea-sure the im-pact
- of us-ing Grammarly[]
- []
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Font shape `OMS/cmr/bx/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/b/n' tried instead on input line 78.
+ [1] [2] [3] [4] [5]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[4] [5] [6]
-Underfull \vbox (badness 3536) has occurred while \output is active []
+ [6]
+Underfull \vbox (badness 3240) has occurred while \output is active []
 
  [7]
-Overfull \hbox (0.47763pt too wide) in paragraph at lines 151--152
- \OT1/cmr/bx/n/10 Per-ceived Use-ful-ness[] \OT1/cmr/m/n/10 Ac-cord-ing to the 
-Tech-nol-ogy Ac-cep-tance Model (TAM),
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9]
+[10]
+Overfull \hbox (2.72661pt too wide) in paragraph at lines 165--168
+\OT1/cmr/m/n/10 Automatic Writ-ing Eval-u-a-tion (AWE) ([][]Grimes & Warschauer
+, 2010) pro-grammes
  []
 
-[8] [9]
-Overfull \hbox (4.25197pt too wide) in paragraph at lines 173--174
+[11]
+Underfull \vbox (badness 3240) has occurred while \output is active []
+
+ [12]
+Overfull \hbox (4.25197pt too wide) in paragraph at lines 176--177
 []\OT1/cmr/m/n/10 Teachers ob-served dif-fer-ent re-ac-tions to the au-to-mated
  scor-ing fea-ture ([][]Grimes
  []
@@ -931,81 +936,76 @@ Overfull \hbox (4.25197pt too wide) in paragraph at lines 173--174
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [10]
-Underfull \vbox (badness 6412) has occurred while \output is active []
-
- [11]
-[12] [13] [14]
-<images/view.png, id=87, 1337.74782pt x 539.01375pt>
+ [13]
+[14] [15] [16] [17] [18] [19]
+<images/view.png, id=105, 1337.74782pt x 539.01375pt>
 File: images/view.png Graphic file (type png)
 <use images/view.png>
-Package pdftex.def Info: images/view.png  used on input line 260.
+Package pdftex.def Info: images/view.png  used on input line 261.
 (pdftex.def)             Requested size: 347.12354pt x 139.86063pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [15]
-<images/state_1.png, id=91, 476.53032pt x 70.01157pt>
+ [20]
+<images/state_1.png, id=109, 476.53032pt x 70.01157pt>
 File: images/state_1.png Graphic file (type png)
 <use images/state_1.png>
-Package pdftex.def Info: images/state_1.png  used on input line 268.
+Package pdftex.def Info: images/state_1.png  used on input line 269.
 (pdftex.def)             Requested size: 347.12354pt x 51.00224pt.
-<images/state_2.png, id=92, 471.26062pt x 177.66376pt>
+<images/state_2.png, id=110, 471.26062pt x 177.66376pt>
 File: images/state_2.png Graphic file (type png)
 <use images/state_2.png>
-Package pdftex.def Info: images/state_2.png  used on input line 275.
+Package pdftex.def Info: images/state_2.png  used on input line 276.
 (pdftex.def)             Requested size: 347.12354pt x 130.86458pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [16 <./images/view.png (PNG copy)> <./images/state_1.png (PNG copy)>]
-<images/state_3.png, id=96, 466.74374pt x 424.58624pt>
+ [21 <./images/view.png (PNG copy)> <./images/state_1.png (PNG copy)>]
+<images/state_3.png, id=114, 466.74374pt x 424.58624pt>
 File: images/state_3.png Graphic file (type png)
 <use images/state_3.png>
-Package pdftex.def Info: images/state_3.png  used on input line 282.
+Package pdftex.def Info: images/state_3.png  used on input line 283.
 (pdftex.def)             Requested size: 347.12354pt x 315.78265pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [17 <./images/state_2.png (PNG copy)>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [18 <./images/state_3.png (PNG copy)>]
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 296--301
+ [22 <./images/state_2.png (PNG copy)>] [23 <./images/state_3.png (PNG copy)>]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 297--302
 [] 
  []
 
-<images/premium.png, id=103, 437.38406pt x 504.38437pt>
+<images/premium.png, id=121, 437.38406pt x 504.38437pt>
 File: images/premium.png Graphic file (type png)
 <use images/premium.png>
-Package pdftex.def Info: images/premium.png  used on input line 305.
+Package pdftex.def Info: images/premium.png  used on input line 306.
 (pdftex.def)             Requested size: 277.69987pt x 320.24203pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [19 <./images/premium.png (PNG copy)>]
-Underfull \vbox (badness 1430) has occurred while \output is active []
+ [24]
+Underfull \vbox (badness 4229) has occurred while \output is active []
 
- [20]
-Overfull \hbox (4.32152pt too wide) in paragraph at lines 337--338
+ [25 <./images/premium.png (PNG copy)>] [26] [27]
+Overfull \hbox (4.32152pt too wide) in paragraph at lines 338--339
 []\OT1/cmr/m/n/10 Users of au-to-mated gram-mar cor-rec-tion soft-ware and ad-m
 in-is-tra-tors at schools
  []
 
-[21] [22]
+
+Underfull \vbox (badness 2418) has occurred while \output is active []
+
+ [28]
+[29] [30]
 LaTeX Font Info:    Font shape `OMS/cmr/m/it' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 357.
- [23] [24] (./TobitEnglishCorrectionSoftware_TobiasKoller.aux)
+ [31] [32] (./TobitEnglishCorrectionSoftware_TobiasKoller.aux)
 Package logreq Info: Writing requests to 'TobitEnglishCorrectionSoftware_Tobias
 Koller.run.xml'.
 \openout1 = `TobitEnglishCorrectionSoftware_TobiasKoller.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21366 strings out of 492167
- 420665 string characters out of 6131557
- 899223 words of memory out of 5000000
- 25368 multiletter control sequences out of 15000+600000
+ 21360 strings out of 492167
+ 420437 string characters out of 6131557
+ 897185 words of memory out of 5000000
+ 25362 multiletter control sequences out of 15000+600000
  10443 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,7n,101p,1938b,3996s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1020,11 +1020,11 @@ usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf
 s/cm/cmr9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on TobitEnglishCorrectionSoftware_TobiasKoller.pdf (24 pages, 59
-8012 bytes).
+Output written on TobitEnglishCorrectionSoftware_TobiasKoller.pdf (33 pages, 60
+1076 bytes).
 PDF statistics:
- 166 PDF objects out of 1000 (max. 8388607)
- 104 compressed objects within 2 object streams
+ 195 PDF objects out of 1000 (max. 8388607)
+ 124 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  134 words of extra memory for PDF output out of 10000 (max. 10000000)
 
