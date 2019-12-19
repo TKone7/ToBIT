@@ -161,22 +161,12 @@
       \field{number}{8}
       \field{shorttitle}{User {Acceptance} of {Computer} {Technology}}
       \field{title}{User {Acceptance} of {Computer} {Technology}: {A} {Comparison} of {Two} {Theoretical} {Models}}
-      \field{urlday}{5}
-      \field{urlmonth}{12}
-      \field{urlyear}{2019}
       \field{volume}{35}
       \field{year}{1989}
-      \field{urldateera}{ce}
       \field{pages}{982\bibrangedash 1003}
       \range{pages}{22}
       \verb{doi}
       \verb 10.1287/mnsc.35.8.982
-      \endverb
-      \verb{urlraw}
-      \verb https://pubsonline.informs.org/doi/abs/10.1287/mnsc.35.8.982
-      \endverb
-      \verb{url}
-      \verb https://pubsonline.informs.org/doi/abs/10.1287/mnsc.35.8.982
       \endverb
     \endentry
     \entry{dembsey_closing_2017}{article}{}
@@ -208,22 +198,12 @@
       \field{number}{1}
       \field{shorttitle}{Closing the {Grammarly}® {Gaps}}
       \field{title}{Closing the {Grammarly}® {Gaps}: {A} {Study} of {Claims} and {Feedback} from an {Online} {Grammar} {Program}}
-      \field{urlday}{14}
-      \field{urlmonth}{10}
-      \field{urlyear}{2019}
       \field{volume}{36}
       \field{year}{2017}
-      \field{urldateera}{ce}
       \field{pages}{63\bibrangedash 100}
       \range{pages}{38}
       \verb{file}
       \verb Dembsey - 2017 - Closing the Grammarly® Gaps A Study of Claims and.pdf:/home/tobias/Zotero/storage/K8CBJF4P/Dembsey - 2017 - Closing the Grammarly® Gaps A Study of Claims and.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://www.jstor.org/stable/44252638
-      \endverb
-      \verb{url}
-      \verb https://www.jstor.org/stable/44252638
       \endverb
     \endentry
     \entry{noauthor_ets_nodate}{misc}{}
@@ -609,33 +589,6 @@
       \endverb
       \keyw{automated writing evaluation,academic writing,experience,Grammarly}
     \endentry
-    \entry{noauthor_pos_2018}{misc}{}
-      \list{language}{1}{%
-        {en-GB}%
-      }
-      \field{sortinit}{P}
-      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labeltitlesource}{title}
-      \field{abstract}{A POS tag (part-of-speech tag) is a label showing the part of speech of each token (word) in a text corpus. POS tags are assigned automatically by a POS tagger.}
-      \field{month}{3}
-      \field{title}{{POS} tags and part-of-speech tagging {|} {Sketch} {Engine}}
-      \field{urlday}{9}
-      \field{urlmonth}{12}
-      \field{urlyear}{2019}
-      \field{year}{2018}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb Snapshot:/home/tobias/Zotero/storage/SLF3VEA7/pos-tags.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://www.sketchengine.eu/pos-tags/
-      \endverb
-      \verb{url}
-      \verb https://www.sketchengine.eu/pos-tags/
-      \endverb
-    \endentry
     \entry{qassemzadeh_impact_2016}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=90e44252eb3c30353f03a07ffdba925a}{%
@@ -695,6 +648,33 @@
       \verb http://www.academypublication.com/ojs/index.php/tpls/article/view/tpls060918841894
       \endverb
       \keyw{grammarly software,passive structure,software feedback,teacher's feedback}
+    \endentry
+    \entry{noauthor_sketch_2018}{misc}{}
+      \list{language}{1}{%
+        {en-GB}%
+      }
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A POS tag (part-of-speech tag) is a label showing the part of speech of each token (word) in a text corpus. POS tags are assigned automatically by a POS tagger.}
+      \field{month}{3}
+      \field{title}{Sketch {Engine}}
+      \field{urlday}{9}
+      \field{urlmonth}{12}
+      \field{urlyear}{2019}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/tobias/Zotero/storage/SLF3VEA7/pos-tags.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sketchengine.eu/pos-tags/
+      \endverb
+      \verb{url}
+      \verb https://www.sketchengine.eu/pos-tags/
+      \endverb
     \endentry
     \entry{vandeventer_creating_2001}{article}{}
       \name{author}{1}{}{%

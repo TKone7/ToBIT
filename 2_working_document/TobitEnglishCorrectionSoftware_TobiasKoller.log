@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.12.10)  14 DEC 2019 16:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.12.10)  19 DEC 2019 12:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -919,21 +919,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 1231) has occurred while \output is active []
 
  [3]
-Underfull \vbox (badness 5417) has occurred while \output is active []
-
- [4]
-[5] [6] [7]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [8]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [9]
-[10]
-Underfull \vbox (badness 7099) has occurred while \output is active []
-
- [11]
-Overfull \hbox (2.72661pt too wide) in paragraph at lines 169--172
+[4] [5] [6] [7] [8] [9] [10] [11]
+Overfull \hbox (2.72661pt too wide) in paragraph at lines 168--170
 \OT1/cmr/m/n/10 Automatic Writ-ing Eval-u-a-tion (AWE) ([][]Grimes & Warschauer
 , 2010) pro-grammes
  []
@@ -942,7 +929,7 @@ Overfull \hbox (2.72661pt too wide) in paragraph at lines 169--172
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [12]
-Overfull \hbox (4.25197pt too wide) in paragraph at lines 180--181
+Overfull \hbox (4.25197pt too wide) in paragraph at lines 178--179
 []\OT1/cmr/m/n/10 Teachers ob-served dif-fer-ent re-ac-tions to the au-to-mated
  scor-ing fea-ture ([][]Grimes
  []
@@ -963,12 +950,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <images/view.png, id=108, 1337.74782pt x 539.01375pt>
 File: images/view.png Graphic file (type png)
 <use images/view.png>
-Package pdftex.def Info: images/view.png  used on input line 265.
+Package pdftex.def Info: images/view.png  used on input line 263.
 (pdftex.def)             Requested size: 347.12354pt x 139.86063pt.
 <images/state_1.png, id=109, 476.53032pt x 70.01157pt>
 File: images/state_1.png Graphic file (type png)
 <use images/state_1.png>
-Package pdftex.def Info: images/state_1.png  used on input line 273.
+Package pdftex.def Info: images/state_1.png  used on input line 271.
 (pdftex.def)             Requested size: 347.12354pt x 51.00224pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -977,26 +964,26 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <images/state_2.png, id=113, 471.26062pt x 177.66376pt>
 File: images/state_2.png Graphic file (type png)
 <use images/state_2.png>
-Package pdftex.def Info: images/state_2.png  used on input line 280.
+Package pdftex.def Info: images/state_2.png  used on input line 278.
 (pdftex.def)             Requested size: 347.12354pt x 130.86458pt.
 <images/state_3.png, id=114, 466.74374pt x 424.58624pt>
 File: images/state_3.png Graphic file (type png)
 <use images/state_3.png>
-Package pdftex.def Info: images/state_3.png  used on input line 287.
+Package pdftex.def Info: images/state_3.png  used on input line 285.
 (pdftex.def)             Requested size: 347.12354pt x 315.78265pt.
 
 Underfull \vbox (badness 2027) has occurred while \output is active []
 
  [22 <./images/state_1.png (PNG copy)> <./images/state_2.png (PNG copy)>] [23 <
 ./images/state_3.png (PNG copy)>]
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 301--306
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 299--304
 [] 
  []
 
 <images/premium.png, id=121, 437.38406pt x 504.38437pt>
 File: images/premium.png Graphic file (type png)
 <use images/premium.png>
-Package pdftex.def Info: images/premium.png  used on input line 310.
+Package pdftex.def Info: images/premium.png  used on input line 308.
 (pdftex.def)             Requested size: 277.69987pt x 320.24203pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1004,8 +991,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [24]
 Underfull \vbox (badness 4229) has occurred while \output is active []
 
- [25 <./images/premium.png (PNG copy)>] [26] [27]
-Overfull \hbox (4.32152pt too wide) in paragraph at lines 342--343
+ [25 <./images/premium.png (PNG copy)>]
+Underfull \vbox (badness 3460) has occurred while \output is active []
+
+ [26]
+[27]
+Overfull \hbox (4.32152pt too wide) in paragraph at lines 340--341
 []\OT1/cmr/m/n/10 Users of au-to-mated gram-mar cor-rec-tion soft-ware and ad-m
 in-is-tra-tors at schools
  []
@@ -1015,9 +1006,14 @@ Underfull \vbox (badness 2418) has occurred while \output is active []
 
  [28]
 [29] [30]
+Overfull \hbox (16.00813pt too wide) in paragraph at lines 360--360
+[][]\OT1/cmr/m/n/10 Sketch En-gine. (2018). Re-trieved De-cem-ber 9, 2019, from
+ $https : / / www . sketchengine .
+ []
+
 LaTeX Font Info:    Font shape `OMS/cmr/m/it' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 361.
- [31] [32] (./TobitEnglishCorrectionSoftware_TobiasKoller.aux)
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 359.
+[31] [32] (./TobitEnglishCorrectionSoftware_TobiasKoller.aux)
 Package logreq Info: Writing requests to 'TobitEnglishCorrectionSoftware_Tobias
 Koller.run.xml'.
 \openout1 = `TobitEnglishCorrectionSoftware_TobiasKoller.run.xml'.
@@ -1025,8 +1021,8 @@ Koller.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  21360 strings out of 492167
- 420437 string characters out of 6131557
- 897186 words of memory out of 5000000
+ 420446 string characters out of 6131557
+ 897193 words of memory out of 5000000
  25362 multiletter control sequences out of 15000+600000
  10443 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1043,7 +1039,7 @@ s/cm/cmr9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
 Output written on TobitEnglishCorrectionSoftware_TobiasKoller.pdf (33 pages, 60
-2284 bytes).
+2260 bytes).
 PDF statistics:
  195 PDF objects out of 1000 (max. 8388607)
  124 compressed objects within 2 object streams
