@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.12.10)  23 DEC 2019 16:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.12.10)  23 DEC 2019 17:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -923,10 +923,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [7]
-[8] [9] [10]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [11]
+[8] [9] [10] [11]
 Overfull \hbox (2.72661pt too wide) in paragraph at lines 166--168
 \OT1/cmr/m/n/10 Automatic Writ-ing Eval-u-a-tion (AWE) ([][]Grimes & Warschauer
 , 2010) pro-grammes
@@ -939,10 +936,12 @@ Overfull \hbox (4.25197pt too wide) in paragraph at lines 176--177
  []
 
 [14] [15] [16]
-Underfull \vbox (badness 1997) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [17]
-[18]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [18]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [19]
@@ -994,18 +993,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [25]
 Underfull \vbox (badness 4229) has occurred while \output is active []
 
- [26 <./images/premium.png (PNG copy)>]
-Underfull \vbox (badness 3460) has occurred while \output is active []
-
- [27]
-[28]
+ [26 <./images/premium.png (PNG copy)>] [27]
 Overfull \hbox (4.32152pt too wide) in paragraph at lines 338--339
 []\OT1/cmr/m/n/10 Users of au-to-mated gram-mar cor-rec-tion soft-ware and ad-m
 in-is-tra-tors at schools
  []
 
-
-Underfull \vbox (badness 2418) has occurred while \output is active []
+[28]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [29]
 [30] [31]
@@ -1016,17 +1011,17 @@ Overfull \hbox (16.00813pt too wide) in paragraph at lines 358--358
 
 LaTeX Font Info:    Font shape `OMS/cmr/m/it' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 357.
-[32] [33] (./TobitEnglishCorrectionSoftware_TobiasKoller.aux)
+[32] (./TobitEnglishCorrectionSoftware_TobiasKoller.aux)
 Package logreq Info: Writing requests to 'TobitEnglishCorrectionSoftware_Tobias
 Koller.run.xml'.
 \openout1 = `TobitEnglishCorrectionSoftware_TobiasKoller.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21360 strings out of 492167
- 420446 string characters out of 6131557
- 897211 words of memory out of 5000000
- 25362 multiletter control sequences out of 15000+600000
+ 21361 strings out of 492167
+ 420458 string characters out of 6131557
+ 898216 words of memory out of 5000000
+ 25363 multiletter control sequences out of 15000+600000
  10443 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,7n,101p,1938b,3996s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1041,11 +1036,11 @@ usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf
 s/cm/cmr9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on TobitEnglishCorrectionSoftware_TobiasKoller.pdf (34 pages, 60
-3633 bytes).
+Output written on TobitEnglishCorrectionSoftware_TobiasKoller.pdf (33 pages, 60
+3049 bytes).
 PDF statistics:
- 198 PDF objects out of 1000 (max. 8388607)
- 126 compressed objects within 2 object streams
+ 195 PDF objects out of 1000 (max. 8388607)
+ 124 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  134 words of extra memory for PDF output out of 10000 (max. 10000000)
 
