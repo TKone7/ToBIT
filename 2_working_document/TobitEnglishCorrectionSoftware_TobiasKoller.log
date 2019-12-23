@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.12.10)  19 DEC 2019 12:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.12.10)  23 DEC 2019 16:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -887,59 +887,59 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 55.
 LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 6
-1.
+3.
 
 (/usr/share/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <9> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 61.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 63.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 61.
+(Font)              <9> on input line 63.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 61.
+(Font)              <6> on input line 63.
 
-Overfull \hbox (0.10135pt too wide) in paragraph at lines 61--62
+Overfull \hbox (0.10135pt too wide) in paragraph at lines 63--64
 \OT1/cmr/bx/n/9 Keywords:\OT1/cmr/m/n/9 Grammarly[]\OMS/cmsy/m/n/9 ^^A \OT1/cmr
 /m/n/9 Nat-u-ral Lan-guage Pro-cess-ing \OMS/cmsy/m/n/9 ^^A \OT1/cmr/m/n/9 lan-
 guage cor-
  []
 
-[1
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 71.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 69.
 LaTeX Font Info:    Font shape `OMS/cmr/bx/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/b/n' tried instead on input line 78.
+(Font)              Font shape `OMS/cmsy/b/n' tried instead on input line 76.
  [1]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [2]
-Underfull \vbox (badness 1231) has occurred while \output is active []
+[3] [4] [5] [6]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [3]
-[4] [5] [6] [7] [8] [9] [10] [11]
-Overfull \hbox (2.72661pt too wide) in paragraph at lines 168--170
+ [7]
+[8] [9] [10]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11]
+Overfull \hbox (2.72661pt too wide) in paragraph at lines 166--168
 \OT1/cmr/m/n/10 Automatic Writ-ing Eval-u-a-tion (AWE) ([][]Grimes & Warschauer
 , 2010) pro-grammes
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [12]
-Overfull \hbox (4.25197pt too wide) in paragraph at lines 178--179
+[12] [13]
+Overfull \hbox (4.25197pt too wide) in paragraph at lines 176--177
 []\OT1/cmr/m/n/10 Teachers ob-served dif-fer-ent re-ac-tions to the au-to-mated
  scor-ing fea-ture ([][]Grimes
  []
 
-[13] [14]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [15]
-[16]
-Underfull \vbox (badness 7344) has occurred while \output is active []
+[14] [15] [16]
+Underfull \vbox (badness 1997) has occurred while \output is active []
 
  [17]
 [18]
@@ -950,53 +950,56 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <images/view.png, id=108, 1337.74782pt x 539.01375pt>
 File: images/view.png Graphic file (type png)
 <use images/view.png>
-Package pdftex.def Info: images/view.png  used on input line 263.
+Package pdftex.def Info: images/view.png  used on input line 261.
 (pdftex.def)             Requested size: 347.12354pt x 139.86063pt.
-<images/state_1.png, id=109, 476.53032pt x 70.01157pt>
-File: images/state_1.png Graphic file (type png)
-<use images/state_1.png>
-Package pdftex.def Info: images/state_1.png  used on input line 271.
-(pdftex.def)             Requested size: 347.12354pt x 51.00224pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [21 <./images/view.png (PNG copy)>]
+ [21]
+<images/state_1.png, id=112, 476.53032pt x 70.01157pt>
+File: images/state_1.png Graphic file (type png)
+<use images/state_1.png>
+Package pdftex.def Info: images/state_1.png  used on input line 269.
+(pdftex.def)             Requested size: 347.12354pt x 51.00224pt.
 <images/state_2.png, id=113, 471.26062pt x 177.66376pt>
 File: images/state_2.png Graphic file (type png)
 <use images/state_2.png>
-Package pdftex.def Info: images/state_2.png  used on input line 278.
+Package pdftex.def Info: images/state_2.png  used on input line 276.
 (pdftex.def)             Requested size: 347.12354pt x 130.86458pt.
-<images/state_3.png, id=114, 466.74374pt x 424.58624pt>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [22 <./images/view.png (PNG copy)> <./images/state_1.png (PNG copy)>]
+<images/state_3.png, id=117, 466.74374pt x 424.58624pt>
 File: images/state_3.png Graphic file (type png)
 <use images/state_3.png>
-Package pdftex.def Info: images/state_3.png  used on input line 285.
+Package pdftex.def Info: images/state_3.png  used on input line 283.
 (pdftex.def)             Requested size: 347.12354pt x 315.78265pt.
 
-Underfull \vbox (badness 2027) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [22 <./images/state_1.png (PNG copy)> <./images/state_2.png (PNG copy)>] [23 <
-./images/state_3.png (PNG copy)>]
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 299--304
+ [23 <./images/state_2.png (PNG copy)>] [24 <./images/state_3.png (PNG copy)>]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 297--302
 [] 
  []
 
-<images/premium.png, id=121, 437.38406pt x 504.38437pt>
+<images/premium.png, id=125, 437.38406pt x 504.38437pt>
 File: images/premium.png Graphic file (type png)
 <use images/premium.png>
-Package pdftex.def Info: images/premium.png  used on input line 308.
+Package pdftex.def Info: images/premium.png  used on input line 306.
 (pdftex.def)             Requested size: 277.69987pt x 320.24203pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [24]
+ [25]
 Underfull \vbox (badness 4229) has occurred while \output is active []
 
- [25 <./images/premium.png (PNG copy)>]
+ [26 <./images/premium.png (PNG copy)>]
 Underfull \vbox (badness 3460) has occurred while \output is active []
 
- [26]
-[27]
-Overfull \hbox (4.32152pt too wide) in paragraph at lines 340--341
+ [27]
+[28]
+Overfull \hbox (4.32152pt too wide) in paragraph at lines 338--339
 []\OT1/cmr/m/n/10 Users of au-to-mated gram-mar cor-rec-tion soft-ware and ad-m
 in-is-tra-tors at schools
  []
@@ -1004,16 +1007,16 @@ in-is-tra-tors at schools
 
 Underfull \vbox (badness 2418) has occurred while \output is active []
 
- [28]
-[29] [30]
-Overfull \hbox (16.00813pt too wide) in paragraph at lines 360--360
+ [29]
+[30] [31]
+Overfull \hbox (16.00813pt too wide) in paragraph at lines 358--358
 [][]\OT1/cmr/m/n/10 Sketch En-gine. (2018). Re-trieved De-cem-ber 9, 2019, from
  $https : / / www . sketchengine .
  []
 
 LaTeX Font Info:    Font shape `OMS/cmr/m/it' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 359.
-[31] [32] (./TobitEnglishCorrectionSoftware_TobiasKoller.aux)
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 357.
+[32] [33] (./TobitEnglishCorrectionSoftware_TobiasKoller.aux)
 Package logreq Info: Writing requests to 'TobitEnglishCorrectionSoftware_Tobias
 Koller.run.xml'.
 \openout1 = `TobitEnglishCorrectionSoftware_TobiasKoller.run.xml'.
@@ -1022,7 +1025,7 @@ Koller.run.xml'.
 Here is how much of TeX's memory you used:
  21360 strings out of 492167
  420446 string characters out of 6131557
- 897193 words of memory out of 5000000
+ 897211 words of memory out of 5000000
  25362 multiletter control sequences out of 15000+600000
  10443 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1038,11 +1041,11 @@ usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf
 s/cm/cmr9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on TobitEnglishCorrectionSoftware_TobiasKoller.pdf (33 pages, 60
-2260 bytes).
+Output written on TobitEnglishCorrectionSoftware_TobiasKoller.pdf (34 pages, 60
+3633 bytes).
 PDF statistics:
- 195 PDF objects out of 1000 (max. 8388607)
- 124 compressed objects within 2 object streams
+ 198 PDF objects out of 1000 (max. 8388607)
+ 126 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  134 words of extra memory for PDF output out of 10000 (max. 10000000)
 
